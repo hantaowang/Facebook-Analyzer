@@ -1,1156 +1,19 @@
 {
     "paging": {
-        "next": "https://graph.facebook.com/v2.2/1717731545171536/feed?fields=from,message,created_time,attachments,comments.summary%28true%29.limit%280%29,likes.summary%28true%29.limit%280%29,picture&limit=50&__paging_token=enc_AdDiHc87wGZCfaPg5tZCiDzbOGzcl4DKVnILBWwgbllLoGa6C3WoDAST67CZBLMsPzAdsCSuRF2VaesAwTbENcOUSCPDOazewJRNwzuBrhY0s2IdQZDZD&icon_size=16&access_token=EAACEdEose0cBAPelwOitUxjECwQtNcwzqXu0ZA5w1D7rblrcY7HZCEN6Hm1NuV06GnufZBHjHaH4z4KGU7nnMFJP7LgQ7Ee7bTG7NK0vay6S7vsTcjWuMr4dCm75ViEbSSb7CwduGjgTwCGa5xZBAUTRyfZAkgiradZC2yNO6HAmf6w10a9W1TebLdmZBK9J7QZD&until=1479622746", 
-        "previous": "https://graph.facebook.com/v2.2/1717731545171536/feed?fields=from,message,created_time,attachments,comments.summary%28true%29.limit%280%29,likes.summary%28true%29.limit%280%29,picture&limit=50&__paging_token=enc_AdBIidl5v2jwdgY4naP1SVybdTajh6eAmH5FUiQMUWXgpqEv0t5VHW70PZChmrDTb6HeblVHY0ZATUEwVUZCQC4ZBCXo2cnQUI0yCdZAzOFYFzTMKTQZDZD&icon_size=16&since=1479760926&access_token=EAACEdEose0cBAPelwOitUxjECwQtNcwzqXu0ZA5w1D7rblrcY7HZCEN6Hm1NuV06GnufZBHjHaH4z4KGU7nnMFJP7LgQ7Ee7bTG7NK0vay6S7vsTcjWuMr4dCm75ViEbSSb7CwduGjgTwCGa5xZBAUTRyfZAkgiradZC2yNO6HAmf6w10a9W1TebLdmZBK9J7QZD&__previous=1"
+        "next": "https://graph.facebook.com/v2.2/1717731545171536/feed?fields=from,message,created_time,attachments%7Burl%7D,comments.summary%28true%29.limit%280%29,likes.summary%28true%29.limit%280%29,picture&limit=50&__paging_token=enc_AdC0vVuc9IGbZAD55B4rFsMc0fnSMuajiIWDR0zBDQPIYVI1T9IltMSSLdxTGHFAlZBHEC2aQriuDK1RxPA6MbIJhR8srg7wosIzJPnuOx8yILrwZDZD&icon_size=16&access_token=EAACEdEose0cBAMZAPRzvaZCQM9EF7oRHnhtTSoMBxsTZAJyXIX0migEYV5GazPYjFHajQAeN4rp7MVjzFYDLvZCDjTrkKD8hMaDVjWtz8E4CPpcKTY1hij6uKhOFrZCFDpCBMnIeqPWEAFjnf02kqFLnhXtpA6ziZB8RkXAkwYSZAStAj6HkYHBVpp6n4XOcu4ZD&until=1479511271", 
+        "previous": "https://graph.facebook.com/v2.2/1717731545171536/feed?fields=from,message,created_time,attachments%7Burl%7D,comments.summary%28true%29.limit%280%29,likes.summary%28true%29.limit%280%29,picture&limit=50&__paging_token=enc_AdBwqhMNWzo5rJL1PKoudMezlAIqtzfTgE23bs7OpKpS5iZAGWugxuZB5ZCcpYAIGRvpz8IRmaNOiMmaim0MIGNKLJB1ZCmKZA8K0qkeU3nYOjzORugZDZD&icon_size=16&since=1479621172&access_token=EAACEdEose0cBAMZAPRzvaZCQM9EF7oRHnhtTSoMBxsTZAJyXIX0migEYV5GazPYjFHajQAeN4rp7MVjzFYDLvZCDjTrkKD8hMaDVjWtz8E4CPpcKTY1hij6uKhOFrZCFDpCBMnIeqPWEAFjnf02kqFLnhXtpA6ziZB8RkXAkwYSZAStAj6HkYHBVpp6n4XOcu4ZD&__previous=1"
     }, 
     "data": [
         {
-            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15032870_1233720033365204_7081913068911121848_n.jpg?oh=ec8e14aec0cdaf13da1c3e62e143bef2&oe=59465685", 
+            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/15095603_1035751166548314_740382318778224680_n.jpg?oh=d00e7eb0409d2821b7eed54159058857&oe=5941CF00", 
             "from": {
-                "name": "Willis Silliman", 
-                "id": "1011313558939187"
+                "name": "Ryan Olson", 
+                "id": "782208645235902"
             }, 
             "attachments": {
                 "data": [
                     {
-                        "url": "https://www.facebook.com/photo.php?fbid=1233720033365204&set=gm.1807072349570788&type=3", 
-                        "media": {
-                            "image": {
-                                "src": "https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/15068946_1233720033365204_7081913068911121848_o.jpg?oh=186ed03bbdfc808f19ab087198ee10f7&oe=59090831", 
-                                "width": 720, 
-                                "height": 419
-                            }
-                        }, 
-                        "type": "photo", 
-                        "description": "Being a STEM major at Cal.", 
-                        "target": {
-                            "url": "https://www.facebook.com/photo.php?fbid=1233720033365204&set=gm.1807072349570788&type=3", 
-                            "id": "1233720033365204"
-                        }
-                    }
-                ]
-            }, 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "total_count": 85, 
-                    "order": "chronological"
-                }
-            }, 
-            "updated_time": "2016-11-21T20:42:06+0000", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 1866
-                }
-            }, 
-            "created_time": "2016-11-15T20:06:44+0000", 
-            "message": "Being a STEM major at Cal.", 
-            "id": "1717731545171536_1807072349570788"
-        }, 
-        {
-            "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAzcYMC7vNhzS2K&w=130&h=130&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FsDsS1sK1WyM%2Fhqdefault.jpg&cfs=1&_nc_hash=AQCFuKy0-Z6bsFj6", 
-            "from": {
-                "name": "Matthew Gaston", 
-                "id": "390139864459399"
-            }, 
-            "attachments": {
-                "data": [
-                    {
-                        "description": "But you Know...", 
-                        "title": "I'm Stuck Here In The Desert", 
-                        "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FsDsS1sK1WyM&h=ATMlQQ2gs2oFzOnhXDukSDuCJVj0lyHbLNEcv_VDra6XOgd-7mPJNXsszFAENZCnyp-3K7_LzwEVK0n_0MJiOoKI-wZgnzjPQ1lIO77DqWWVejqQNLqZs_IRA9XsT68GMIIRsrp3u4NwySLhAA&s=1&enc=AZONyqg2bvJrNJJQYv2AOZ7cYzzqgXOGhMkfq7JEVqCQHl9upaMY7XWMqvC-tTwUYV2cbmGm5mPgfCeqm8Sw-FyDwSO0EoDgI31g2pKpsUNQBg", 
-                        "media": {
-                            "image": {
-                                "src": "https://external.xx.fbcdn.net/safe_image.php?d=AQC1jZ2wa_0k1Ks7&w=720&h=720&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FsDsS1sK1WyM%2Fhqdefault.jpg&cfs=1&_nc_hash=AQCLq26naMlyDNQJ", 
-                                "width": 360, 
-                                "height": 360
-                            }
-                        }, 
-                        "type": "video_share_youtube", 
-                        "target": {
-                            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FsDsS1sK1WyM&h=ATMlQQ2gs2oFzOnhXDukSDuCJVj0lyHbLNEcv_VDra6XOgd-7mPJNXsszFAENZCnyp-3K7_LzwEVK0n_0MJiOoKI-wZgnzjPQ1lIO77DqWWVejqQNLqZs_IRA9XsT68GMIIRsrp3u4NwySLhAA&s=1&enc=AZONyqg2bvJrNJJQYv2AOZ7cYzzqgXOGhMkfq7JEVqCQHl9upaMY7XWMqvC-tTwUYV2cbmGm5mPgfCeqm8Sw-FyDwSO0EoDgI31g2pKpsUNQBg"
-                        }
-                    }
-                ]
-            }, 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "total_count": 2, 
-                    "order": "chronological"
-                }
-            }, 
-            "updated_time": "2016-11-21T19:47:25+0000", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 11
-                }
-            }, 
-            "created_time": "2016-11-21T17:34:14+0000", 
-            "message": "Please enjoy this low quality/high budget production featuring Alex Filippenko- ", 
-            "id": "1717731545171536_1809914462619910"
-        }, 
-        {
-            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/14907079_348845138793577_9195442521958222068_n.jpg?oh=00234e04a81413fc59fa2ead1ee43e0c&oe=59037623", 
-            "from": {
-                "name": "Tony Lai", 
-                "id": "244225182588907"
-            }, 
-            "attachments": {
-                "data": [
-                    {
-                        "url": "https://www.facebook.com/photo.php?fbid=348845138793577&set=gm.1797113473900009&type=3", 
-                        "media": {
-                            "image": {
-                                "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/14907079_348845138793577_9195442521958222068_n.jpg?oh=4005a55d3c694505b567095116460e80&oe=590FBABE", 
-                                "width": 444, 
-                                "height": 561
-                            }
-                        }, 
-                        "type": "photo", 
-                        "target": {
-                            "url": "https://www.facebook.com/photo.php?fbid=348845138793577&set=gm.1797113473900009&type=3", 
-                            "id": "348845138793577"
-                        }
-                    }
-                ]
-            }, 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "total_count": 281, 
-                    "order": "chronological"
-                }
-            }, 
-            "updated_time": "2016-11-21T19:24:15+0000", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 1923
-                }
-            }, 
-            "created_time": "2016-10-28T06:39:36+0000", 
-            "id": "1717731545171536_1797113473900009"
-        }, 
-        {
-            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/15171277_1193391627363651_3023194862201443366_n.jpg?oh=341050c7622c47479ef76ea53ef763a6&oe=591520DC", 
-            "from": {
-                "name": "Arjen A. Aquino", 
-                "id": "740368519332633"
-            }, 
-            "attachments": {
-                "data": [
-                    {
-                        "url": "https://www.facebook.com/photo.php?fbid=1193391627363651&set=gm.1809651185979571&type=3", 
-                        "media": {
-                            "image": {
-                                "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/15171277_1193391627363651_3023194862201443366_n.jpg?oh=d62df8d006c515f53e4be12c9b0f22f9&oe=5907FB67", 
-                                "width": 392, 
-                                "height": 395
-                            }
-                        }, 
-                        "type": "photo", 
-                        "target": {
-                            "url": "https://www.facebook.com/photo.php?fbid=1193391627363651&set=gm.1809651185979571&type=3", 
-                            "id": "1193391627363651"
-                        }
-                    }
-                ]
-            }, 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "total_count": 10, 
-                    "order": "chronological"
-                }
-            }, 
-            "updated_time": "2016-11-21T18:42:53+0000", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 180
-                }
-            }, 
-            "created_time": "2016-11-21T03:51:09+0000", 
-            "id": "1717731545171536_1809651185979571"
-        }, 
-        {
-            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15109339_1812174719024697_858220168373897208_n.jpg?oh=f10cfbf535b3d221249b80a0608c9c30&oe=594C047E", 
-            "from": {
-                "name": "Niki Zarkub", 
-                "id": "1519574758284696"
-            }, 
-            "attachments": {
-                "data": [
-                    {
-                        "url": "https://www.facebook.com/photo.php?fbid=1812174719024697&set=gm.1809554532655903&type=3", 
-                        "media": {
-                            "image": {
-                                "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/15109339_1812174719024697_858220168373897208_n.jpg?oh=9ce405fd0b3fe1b73c525dbb77ef7998&oe=591542E3", 
-                                "width": 680, 
-                                "height": 377
-                            }
-                        }, 
-                        "type": "photo", 
-                        "description": "Me \"I need to drop out of this school. My GPA is shit, and Finals are slowly draining my will to live\"\n\nMe to me \"But the memes, stay for the memes\"", 
-                        "target": {
-                            "url": "https://www.facebook.com/photo.php?fbid=1812174719024697&set=gm.1809554532655903&type=3", 
-                            "id": "1812174719024697"
-                        }
-                    }
-                ]
-            }, 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "total_count": 2, 
-                    "order": "chronological"
-                }
-            }, 
-            "updated_time": "2016-11-21T18:20:16+0000", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 171
-                }
-            }, 
-            "created_time": "2016-11-20T22:18:42+0000", 
-            "message": "Me \"I need to drop out of this school. My GPA is shit, and Finals are slowly draining my will to live\"\n\nMe to me \"But the memes, stay for the memes\"", 
-            "id": "1717731545171536_1809554532655903"
-        }, 
-        {
-            "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCi-nfoQWDfzL3V&w=130&h=130&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FfKVB1OR2e0s%2Fhqdefault.jpg&cfs=1&sx=61&sy=0&sw=360&sh=360&_nc_hash=AQDGmrLQ53oBys4g", 
-            "from": {
-                "name": "Matthew Gaston", 
-                "id": "390139864459399"
-            }, 
-            "attachments": {
-                "data": [
-                    {
-                        "description": "Trees", 
-                        "title": "Daddy Loves Trees", 
-                        "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FfKVB1OR2e0s&h=ATOzpmksTzQj-rkWHldLaknkZcRgMZG7ktCwMOgdqMh3NhcFvwy3_TFZ1O_QX2B2WyoMGR1NKVh5eHNVjBsRi87wCjqa9H0Ssx9j13vPIy8GMJVbpJ9NrX3fUwm8Aq8hHyoKdP6SrElkrHriaA&s=1&enc=AZOr4mRRpdXGLg7NAZHRSjd5uqC68DF_kZIJCL8xuYar2H99ZX7fojb4LMqzi3k1WR1hvc1VR4M9mtml39rzkf3L3cW-Mczd7ZvVmVLoLeHn-A", 
-                        "media": {
-                            "image": {
-                                "src": "https://external.xx.fbcdn.net/safe_image.php?d=AQBpiecwQoxBSr-v&w=360&h=360&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FfKVB1OR2e0s%2Fhqdefault.jpg&cfs=1&sx=61&sy=0&sw=360&sh=360&_nc_hash=AQDoiXf1HZttECmG", 
-                                "width": 360, 
-                                "height": 360
-                            }
-                        }, 
-                        "type": "video_share_youtube", 
-                        "target": {
-                            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FfKVB1OR2e0s&h=ATOzpmksTzQj-rkWHldLaknkZcRgMZG7ktCwMOgdqMh3NhcFvwy3_TFZ1O_QX2B2WyoMGR1NKVh5eHNVjBsRi87wCjqa9H0Ssx9j13vPIy8GMJVbpJ9NrX3fUwm8Aq8hHyoKdP6SrElkrHriaA&s=1&enc=AZOr4mRRpdXGLg7NAZHRSjd5uqC68DF_kZIJCL8xuYar2H99ZX7fojb4LMqzi3k1WR1hvc1VR4M9mtml39rzkf3L3cW-Mczd7ZvVmVLoLeHn-A"
-                        }
-                    }
-                ]
-            }, 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "total_count": 0, 
-                    "order": "chronological"
-                }
-            }, 
-            "updated_time": "2016-11-21T17:29:34+0000", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 4
-                }
-            }, 
-            "created_time": "2016-11-21T17:29:34+0000", 
-            "message": "Please enjoy this low budget, high quality meme/song- Daddy Loves Trees.\n\n", 
-            "id": "1717731545171536_1809913179286705"
-        }, 
-        {
-            "picture": "https://scontent.xx.fbcdn.net/v/t15.0-10/s130x130/15132228_360207640990660_4454233445068963840_n.jpg?oh=5c0d0867ea22d9675085b602ed13d0bc&oe=59034D63", 
-            "from": {
-                "name": "Tony Lai", 
-                "id": "244225182588907"
-            }, 
-            "attachments": {
-                "data": [
-                    {
-                        "url": "https://www.facebook.com/100010042811640/videos/360207480990676/", 
-                        "media": {
-                            "image": {
-                                "src": "https://scontent.xx.fbcdn.net/v/t15.0-10/15132228_360207640990660_4454233445068963840_n.jpg?oh=bc25fd135f378f9414a2b7b3c7de4e0f&oe=5949D38E", 
-                                "width": 400, 
-                                "height": 300
-                            }
-                        }, 
-                        "type": "video_inline", 
-                        "target": {
-                            "url": "https://www.facebook.com/100010042811640/videos/360207480990676/", 
-                            "id": "360207480990676"
-                        }
-                    }
-                ]
-            }, 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "total_count": 32, 
-                    "order": "chronological"
-                }
-            }, 
-            "updated_time": "2016-11-21T17:25:15+0000", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 661
-                }
-            }, 
-            "created_time": "2016-11-20T02:30:05+0000", 
-            "message": "Leaked video of Stanfurd students celebrating", 
-            "id": "1717731545171536_1809117136032976"
-        }, 
-        {
-            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/15032321_696693943828935_8018013235302811816_n.jpg?oh=86f2faf9f7635b741dcfc0c2961a53c8&oe=590B7691", 
-            "from": {
-                "name": "Kyung Geun Kim", 
-                "id": "284036758427991"
-            }, 
-            "attachments": {
-                "data": [
-                    {
-                        "url": "https://www.facebook.com/photo.php?fbid=696693943828935&set=gm.1808783542733002&type=3", 
-                        "media": {
-                            "image": {
-                                "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/15032321_696693943828935_8018013235302811816_n.jpg?oh=24076ddb7686387bddbec240b11e3b3b&oe=590A6E1F", 
-                                "width": 480, 
-                                "height": 480
-                            }
-                        }, 
-                        "type": "photo", 
-                        "target": {
-                            "url": "https://www.facebook.com/photo.php?fbid=696693943828935&set=gm.1808783542733002&type=3", 
-                            "id": "696693943828935"
-                        }
-                    }
-                ]
-            }, 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "total_count": 26, 
-                    "order": "chronological"
-                }
-            }, 
-            "updated_time": "2016-11-21T16:01:47+0000", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 1037
-                }
-            }, 
-            "created_time": "2016-11-19T11:35:33+0000", 
-            "id": "1717731545171536_1808783542733002"
-        }, 
-        {
-            "from": {
-                "name": "Gavin D. Li", 
-                "id": "10203730911177194"
-            }, 
-            "attachments": {
-                "data": [
-                    {
-                        "type": "unavailable", 
-                        "description": "This attachment may have been removed or the person who shared it may not have permission to share it with you.", 
-                        "title": "Attachment Unavailable"
-                    }
-                ]
-            }, 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "total_count": 5, 
-                    "order": "chronological"
-                }
-            }, 
-            "updated_time": "2016-11-21T10:56:11+0000", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 56
-                }
-            }, 
-            "created_time": "2016-11-17T19:54:37+0000", 
-            "message": "When people ask me how my semester is going.", 
-            "id": "1717731545171536_1808011712810185"
-        }, 
-        {
-            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/14906930_718995331582391_6804740120181044209_n.jpg?oh=fc0091237d4aed385578e3910c1558d5&oe=590BCA75", 
-            "from": {
-                "name": "Moni Zha", 
-                "id": "388529451295649"
-            }, 
-            "attachments": {
-                "data": [
-                    {
-                        "url": "https://www.facebook.com/photo.php?fbid=718995331582391&set=gm.1802424760035547&type=3", 
-                        "media": {
-                            "image": {
-                                "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/14906930_718995331582391_6804740120181044209_n.jpg?oh=b428804feb2169fe68b5463bbf9aa9ed&oe=590FBE8A", 
-                                "width": 528, 
-                                "height": 720
-                            }
-                        }, 
-                        "type": "photo", 
-                        "target": {
-                            "url": "https://www.facebook.com/photo.php?fbid=718995331582391&set=gm.1802424760035547&type=3", 
-                            "id": "718995331582391"
-                        }
-                    }
-                ]
-            }, 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "total_count": 93, 
-                    "order": "chronological"
-                }
-            }, 
-            "updated_time": "2016-11-21T09:19:32+0000", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 1123
-                }
-            }, 
-            "created_time": "2016-11-06T11:28:31+0000", 
-            "id": "1717731545171536_1802424760035547"
-        }, 
-        {
-            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15032873_1284295458310960_5888703840994560666_n.jpg?oh=97381db06a002fd14b65d4832662a619&oe=590218FA", 
-            "from": {
-                "name": "Nikko Jeffreys", 
-                "id": "829992343741276"
-            }, 
-            "attachments": {
-                "data": [
-                    {
-                        "url": "https://www.facebook.com/photo.php?fbid=1284295458310960&set=gm.1808716762739680&type=3", 
-                        "media": {
-                            "image": {
-                                "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/15032873_1284295458310960_5888703840994560666_n.jpg?oh=17090704a8d960f5b800f2f7f1ce28fc&oe=5943C4EF", 
-                                "width": 720, 
-                                "height": 697
-                            }
-                        }, 
-                        "type": "photo", 
-                        "description": ":(", 
-                        "target": {
-                            "url": "https://www.facebook.com/photo.php?fbid=1284295458310960&set=gm.1808716762739680&type=3", 
-                            "id": "1284295458310960"
-                        }
-                    }
-                ]
-            }, 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "total_count": 13, 
-                    "order": "chronological"
-                }
-            }, 
-            "updated_time": "2016-11-21T08:22:05+0000", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 258
-                }
-            }, 
-            "created_time": "2016-11-19T08:18:37+0000", 
-            "message": ":(", 
-            "id": "1717731545171536_1808716762739680"
-        }, 
-        {
-            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/15036552_10211216833360747_3476776297228927924_n.jpg?oh=ceabcb8507dc988bc29c2e185ff2b4c0&oe=59079587", 
-            "from": {
-                "name": "Christina Eldabbagh", 
-                "id": "10204629867970729"
-            }, 
-            "attachments": {
-                "data": [
-                    {
-                        "url": "https://www.facebook.com/photo.php?fbid=10211216833360747&set=gm.1807058322905524&type=3", 
-                        "media": {
-                            "image": {
-                                "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/p720x720/15036552_10211216833360747_3476776297228927924_n.jpg?oh=43c68b1683d384d901abf5585e66e86c&oe=594B2D8A", 
-                                "width": 720, 
-                                "height": 720
-                            }
-                        }, 
-                        "type": "photo", 
-                        "target": {
-                            "url": "https://www.facebook.com/photo.php?fbid=10211216833360747&set=gm.1807058322905524&type=3", 
-                            "id": "10211216833360747"
-                        }
-                    }
-                ]
-            }, 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "total_count": 70, 
-                    "order": "chronological"
-                }
-            }, 
-            "updated_time": "2016-11-21T08:16:28+0000", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 2373
-                }
-            }, 
-            "created_time": "2016-11-15T19:13:14+0000", 
-            "id": "1717731545171536_1807058322905524"
-        }, 
-        {
-            "from": {
-                "name": "David Luo", 
-                "id": "10207981488883647"
-            }, 
-            "attachments": {
-                "data": [
-                    {
-                        "type": "unavailable", 
-                        "description": "This attachment may have been removed or the person who shared it may not have permission to share it with you.", 
-                        "title": "Attachment Unavailable"
-                    }
-                ]
-            }, 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "total_count": 56, 
-                    "order": "chronological"
-                }
-            }, 
-            "updated_time": "2016-11-21T07:42:26+0000", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 1824
-                }
-            }, 
-            "created_time": "2016-11-18T20:02:35+0000", 
-            "id": "1717731545171536_1808467299431293"
-        }, 
-        {
-            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15171031_1238647442865932_2096869429841034098_n.jpg?oh=ff2aaade6203259524007b994541df8d&oe=5915DC08", 
-            "from": {
-                "name": "Anne Tambe", 
-                "id": "890055381058475"
-            }, 
-            "attachments": {
-                "data": [
-                    {
-                        "description": "Taken from:\nhttps://www.facebook.com/leagueoflegends/photos/a.244834685555.296890.82061850555/10158024044290556/?type=3&theater\n\nwhich got it from:\nhttp://nasus-kim.tumblr.com/", 
-                        "url": "https://www.facebook.com/photo.php?fbid=1238647442865932&set=gm.1809663322645024&type=3", 
-                        "media": {
-                            "image": {
-                                "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/15171031_1238647442865932_2096869429841034098_n.jpg?oh=f7d2a599a0c44f57ebf59ffa1ab1c7f6&oe=5901F71D", 
-                                "width": 523, 
-                                "height": 720
-                            }
-                        }, 
-                        "description_tags": [
-                            {
-                                "length": 115, 
-                                "id": "10158024044290556", 
-                                "offset": 12
-                            }
-                        ], 
-                        "type": "photo", 
-                        "target": {
-                            "url": "https://www.facebook.com/photo.php?fbid=1238647442865932&set=gm.1809663322645024&type=3", 
-                            "id": "1238647442865932"
-                        }
-                    }
-                ]
-            }, 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "total_count": 2, 
-                    "order": "chronological"
-                }
-            }, 
-            "updated_time": "2016-11-21T07:27:31+0000", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 29
-                }
-            }, 
-            "created_time": "2016-11-21T04:21:30+0000", 
-            "message": "Taken from:\nhttps://www.facebook.com/leagueoflegends/photos/a.244834685555.296890.82061850555/10158024044290556/?type=3&theater\n\nwhich got it from:\nhttp://nasus-kim.tumblr.com/", 
-            "id": "1717731545171536_1809663322645024"
-        }, 
-        {
-            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15095016_1318343851530516_4369410608018058930_n.jpg?oh=8775851654dcb8124e00bb75962eb1a6&oe=591105CA", 
-            "from": {
-                "name": "Kendal Asprec", 
-                "id": "1181310735233829"
-            }, 
-            "attachments": {
-                "data": [
-                    {
-                        "url": "https://www.facebook.com/photo.php?fbid=1318343851530516&set=gm.1809534759324547&type=3", 
-                        "media": {
-                            "image": {
-                                "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/15095016_1318343851530516_4369410608018058930_n.jpg?oh=bbaf9ea23f4921a830a1facf495eb34a&oe=590991DF", 
-                                "width": 720, 
-                                "height": 513
-                            }
-                        }, 
-                        "type": "photo", 
-                        "description": "Happy Sunday folks!", 
-                        "target": {
-                            "url": "https://www.facebook.com/photo.php?fbid=1318343851530516&set=gm.1809534759324547&type=3", 
-                            "id": "1318343851530516"
-                        }
-                    }
-                ]
-            }, 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "total_count": 12, 
-                    "order": "chronological"
-                }
-            }, 
-            "updated_time": "2016-11-21T07:06:23+0000", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 389
-                }
-            }, 
-            "created_time": "2016-11-20T21:29:29+0000", 
-            "message": "Happy Sunday folks!", 
-            "id": "1717731545171536_1809534759324547"
-        }, 
-        {
-            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15134817_1161727327229926_7650957140176798171_n.jpg?oh=88af9d197bc46a24a24fbcdd7995c0e0&oe=59089C99", 
-            "from": {
-                "name": "Raul Ruiz-Perez", 
-                "id": "1035520239850636"
-            }, 
-            "attachments": {
-                "data": [
-                    {
-                        "url": "https://www.facebook.com/photo.php?fbid=1161727327229926&set=gm.1808705296074160&type=3", 
-                        "media": {
-                            "image": {
-                                "src": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/15134817_1161727327229926_7650957140176798171_n.jpg?oh=295901927cc3131ae2d24bec9cbb3630&oe=5902C2E5", 
-                                "width": 720, 
-                                "height": 540
-                            }
-                        }, 
-                        "type": "photo", 
-                        "description": "When the professor says they're not going to curve the test", 
-                        "target": {
-                            "url": "https://www.facebook.com/photo.php?fbid=1161727327229926&set=gm.1808705296074160&type=3", 
-                            "id": "1161727327229926"
-                        }
-                    }
-                ]
-            }, 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "total_count": 3, 
-                    "order": "chronological"
-                }
-            }, 
-            "updated_time": "2016-11-21T06:38:17+0000", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 85
-                }
-            }, 
-            "created_time": "2016-11-19T07:56:20+0000", 
-            "message": "When the professor says they're not going to curve the test", 
-            "id": "1717731545171536_1808705296074160"
-        }, 
-        {
-            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15135737_1428312500529415_2044646410476693631_n.jpg?oh=b90029a96f283bb02ba9764517cae87f&oe=5913FC1E", 
-            "from": {
-                "name": "Can Ceyhan", 
-                "id": "864784830215521"
-            }, 
-            "attachments": {
-                "data": [
-                    {
-                        "url": "https://www.facebook.com/photo.php?fbid=1428312500529415&set=gm.1809629762648380&type=3", 
-                        "media": {
-                            "image": {
-                                "src": "https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/15068358_1428312500529415_2044646410476693631_o.jpg?oh=b3a8407baa1f42a83027dbf55f0139d6&oe=5911E6D1", 
-                                "width": 720, 
-                                "height": 282
-                            }
-                        }, 
-                        "type": "photo", 
-                        "target": {
-                            "url": "https://www.facebook.com/photo.php?fbid=1428312500529415&set=gm.1809629762648380&type=3", 
-                            "id": "1428312500529415"
-                        }
-                    }
-                ]
-            }, 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "total_count": 9, 
-                    "order": "chronological"
-                }
-            }, 
-            "updated_time": "2016-11-21T06:07:15+0000", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 648
-                }
-            }, 
-            "created_time": "2016-11-21T02:18:09+0000", 
-            "id": "1717731545171536_1809629762648380"
-        }, 
-        {
-            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15094337_1180816205345226_6426961595053991983_n.jpg?oh=ad11b72a82e937db2a1787dea84d2d11&oe=590FC1E6", 
-            "from": {
-                "name": "Thomas Beck", 
-                "id": "1197581717002008"
-            }, 
-            "attachments": {
-                "data": [
-                    {
-                        "url": "https://www.facebook.com/photo.php?fbid=1180816205345226&set=gm.1809125506032139&type=3", 
-                        "media": {
-                            "image": {
-                                "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/15094337_1180816205345226_6426961595053991983_n.jpg?oh=84dd770d79c6b77167dd20f74dc2c106&oe=5900038D", 
-                                "width": 705, 
-                                "height": 576
-                            }
-                        }, 
-                        "type": "photo", 
-                        "target": {
-                            "url": "https://www.facebook.com/photo.php?fbid=1180816205345226&set=gm.1809125506032139&type=3", 
-                            "id": "1180816205345226"
-                        }
-                    }
-                ]
-            }, 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "total_count": 31, 
-                    "order": "chronological"
-                }
-            }, 
-            "updated_time": "2016-11-21T05:56:24+0000", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 2917
-                }
-            }, 
-            "created_time": "2016-11-20T02:44:26+0000", 
-            "id": "1717731545171536_1809125506032139"
-        }, 
-        {
-            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15027374_1846300785603172_8043359423230476248_n.jpg?oh=875ea1d1aedd5fbb58b0ce39b3b57e32&oe=5909E261", 
-            "from": {
-                "name": "Yash G. Mehta", 
-                "id": "1576311409268779"
-            }, 
-            "attachments": {
-                "data": [
-                    {
-                        "url": "https://www.facebook.com/photo.php?fbid=1846300785603172&set=gm.1808435546101135&type=3", 
-                        "media": {
-                            "image": {
-                                "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/15027374_1846300785603172_8043359423230476248_n.jpg?oh=9e32d69327bf1e152243f384d50a80d4&oe=59162374", 
-                                "width": 720, 
-                                "height": 630
-                            }
-                        }, 
-                        "type": "photo", 
-                        "target": {
-                            "url": "https://www.facebook.com/photo.php?fbid=1846300785603172&set=gm.1808435546101135&type=3", 
-                            "id": "1846300785603172"
-                        }
-                    }
-                ]
-            }, 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "total_count": 103, 
-                    "order": "chronological"
-                }
-            }, 
-            "updated_time": "2016-11-21T05:37:15+0000", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 2070
-                }
-            }, 
-            "created_time": "2016-11-18T18:32:19+0000", 
-            "id": "1717731545171536_1808435546101135"
-        }, 
-        {
-            "from": {
-                "name": "Leo Meier", 
-                "id": "625537654198074"
-            }, 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "total_count": 18, 
-                    "order": "chronological"
-                }
-            }, 
-            "updated_time": "2016-11-21T05:35:47+0000", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 43
-                }
-            }, 
-            "created_time": "2016-11-20T02:40:53+0000", 
-            "message": "Can I get some Chem E/material science memes here?", 
-            "id": "1717731545171536_1809122719365751"
-        }, 
-        {
-            "from": {
-                "name": "Karina Pauletti", 
-                "id": "10205794664818828"
-            }, 
-            "attachments": {
-                "data": [
-                    {
-                        "type": "unavailable", 
-                        "description": "This attachment may have been removed or the person who shared it may not have permission to share it with you.", 
-                        "title": "Attachment Unavailable"
-                    }
-                ]
-            }, 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "total_count": 15, 
-                    "order": "chronological"
-                }
-            }, 
-            "updated_time": "2016-11-21T05:25:36+0000", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 1208
-                }
-            }, 
-            "created_time": "2016-11-18T19:33:18+0000", 
-            "id": "1717731545171536_1808456329432390"
-        }, 
-        {
-            "from": {
-                "name": "Alex Najibi", 
-                "id": "10203355816113386"
-            }, 
-            "attachments": {
-                "data": [
-                    {
-                        "type": "unavailable", 
-                        "description": "This attachment may have been removed or the person who shared it may not have permission to share it with you.", 
-                        "title": "Attachment Unavailable"
-                    }
-                ]
-            }, 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "total_count": 9, 
-                    "order": "chronological"
-                }
-            }, 
-            "updated_time": "2016-11-21T05:10:11+0000", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 553
-                }
-            }, 
-            "created_time": "2016-11-20T06:03:52+0000", 
-            "id": "1717731545171536_1809208709357152"
-        }, 
-        {
-            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15095677_1272773529441325_3718587051846822663_n.jpg?oh=2f44f486a8e5320544156ba183e62307&oe=590DCC9F", 
-            "from": {
-                "name": "Jerome Andres", 
-                "id": "778595602192456"
-            }, 
-            "attachments": {
-                "data": [
-                    {
-                        "url": "https://www.facebook.com/photo.php?fbid=1272773529441325&set=gm.1808023512809005&type=3", 
-                        "media": {
-                            "image": {
-                                "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/15095677_1272773529441325_3718587051846822663_n.jpg?oh=094ffa993a7447a2223ea6acc3c485d2&oe=5949DD8A", 
-                                "width": 720, 
-                                "height": 598
-                            }
-                        }, 
-                        "type": "photo", 
-                        "description": "***Proceeds to meme in class instead of paying attention to lecture***", 
-                        "target": {
-                            "url": "https://www.facebook.com/photo.php?fbid=1272773529441325&set=gm.1808023512809005&type=3", 
-                            "id": "1272773529441325"
-                        }
-                    }
-                ]
-            }, 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "total_count": 46, 
-                    "order": "chronological"
-                }
-            }, 
-            "updated_time": "2016-11-21T05:08:31+0000", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 964
-                }
-            }, 
-            "created_time": "2016-11-17T20:42:35+0000", 
-            "message": "***Proceeds to meme in class instead of paying attention to lecture***", 
-            "id": "1717731545171536_1808023512809005"
-        }, 
-        {
-            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/15027712_1268830773178821_1587772920562164181_n.jpg?oh=2ee94ae55974b625b9b641da9edeb9ee&oe=58FFAB87", 
-            "from": {
-                "name": "Melissa Ancheta", 
-                "id": "743890885672815"
-            }, 
-            "attachments": {
-                "data": [
-                    {
-                        "url": "https://www.facebook.com/photo.php?fbid=1268830773178821&set=gm.1808172476127442&type=3", 
-                        "media": {
-                            "image": {
-                                "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/p720x720/15027712_1268830773178821_1587772920562164181_n.jpg?oh=d15c525a9205d7180d3c797fd7e98d95&oe=5905E292", 
-                                "width": 720, 
-                                "height": 720
-                            }
-                        }, 
-                        "type": "photo", 
-                        "description": "cal is love cal is life \n(Yes this is actually happening right now)", 
-                        "target": {
-                            "url": "https://www.facebook.com/photo.php?fbid=1268830773178821&set=gm.1808172476127442&type=3", 
-                            "id": "1268830773178821"
-                        }
-                    }
-                ]
-            }, 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "total_count": 124, 
-                    "order": "chronological"
-                }
-            }, 
-            "updated_time": "2016-11-21T04:30:57+0000", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 1606
-                }
-            }, 
-            "created_time": "2016-11-18T05:21:14+0000", 
-            "message": "cal is love cal is life \n(Yes this is actually happening right now)", 
-            "id": "1717731545171536_1808172476127442"
-        }, 
-        {
-            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15094342_1264638683599904_4338351932776133835_n.jpg?oh=90cf32023af6eb711b52d9c0cfac78dc&oe=59444A6E", 
-            "from": {
-                "name": "Alex Bang", 
-                "id": "880329572030819"
-            }, 
-            "attachments": {
-                "data": [
-                    {
-                        "url": "https://www.facebook.com/photo.php?fbid=1264638683599904&set=gm.1809090529368970&type=3", 
-                        "media": {
-                            "image": {
-                                "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/15094342_1264638683599904_4338351932776133835_n.jpg?oh=520d8e15a42acaf0750a8d7f085e1836&oe=59412105", 
-                                "width": 660, 
-                                "height": 586
-                            }
-                        }, 
-                        "type": "photo", 
-                        "description": "not really a meme but just saw this on the wiki page", 
-                        "target": {
-                            "url": "https://www.facebook.com/photo.php?fbid=1264638683599904&set=gm.1809090529368970&type=3", 
-                            "id": "1264638683599904"
-                        }
-                    }
-                ]
-            }, 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "total_count": 3, 
-                    "order": "chronological"
-                }
-            }, 
-            "updated_time": "2016-11-21T04:26:33+0000", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 385
-                }
-            }, 
-            "created_time": "2016-11-20T01:05:54+0000", 
-            "message": "not really a meme but just saw this on the wiki page", 
-            "id": "1717731545171536_1809090529368970"
-        }, 
-        {
-            "from": {
-                "name": "Chanakya Varma", 
-                "id": "10201829683222306"
-            }, 
-            "attachments": {
-                "data": [
-                    {
-                        "type": "unavailable", 
-                        "description": "This attachment may have been removed or the person who shared it may not have permission to share it with you.", 
-                        "title": "Attachment Unavailable"
-                    }
-                ]
-            }, 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "total_count": 62, 
-                    "order": "chronological"
-                }
-            }, 
-            "updated_time": "2016-11-21T03:47:04+0000", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 816
-                }
-            }, 
-            "created_time": "2016-11-19T23:09:45+0000", 
-            "message": "announcement reacts only", 
-            "id": "1717731545171536_1809058876038802"
-        }, 
-        {
-            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15032929_1316856668345901_1527102483093963342_n.jpg?oh=75d10fe975dae7bb472ea45e4f6d6769&oe=59411E0C", 
-            "from": {
-                "name": "Kendal Asprec", 
-                "id": "1181310735233829"
-            }, 
-            "attachments": {
-                "data": [
-                    {
-                        "url": "https://www.facebook.com/photo.php?fbid=1316856668345901&set=gm.1808713989406624&type=3", 
-                        "media": {
-                            "image": {
-                                "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/15032929_1316856668345901_1527102483093963342_n.jpg?oh=61a6e1c6965a593da75a83645b9e90a7&oe=590A4319", 
-                                "width": 556, 
-                                "height": 720
-                            }
-                        }, 
-                        "type": "photo", 
-                        "description": "When I die, I want AirBears 2 to be at my funeral.  That way, they can let me down one last time.\nThis is why I use ethernet.", 
-                        "target": {
-                            "url": "https://www.facebook.com/photo.php?fbid=1316856668345901&set=gm.1808713989406624&type=3", 
-                            "id": "1316856668345901"
-                        }
-                    }
-                ]
-            }, 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "total_count": 5, 
-                    "order": "chronological"
-                }
-            }, 
-            "updated_time": "2016-11-21T03:18:09+0000", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 150
-                }
-            }, 
-            "created_time": "2016-11-19T08:04:23+0000", 
-            "message": "When I die, I want AirBears 2 to be at my funeral.  That way, they can let me down one last time.\nThis is why I use ethernet.", 
-            "id": "1717731545171536_1808713989406624"
-        }, 
-        {
-            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15056285_680681008756707_1153289329283520953_n.jpg?oh=f9e0394086b31eb38ea84061f4aa93ea&oe=591008AE", 
-            "from": {
-                "name": "Josh Weinstein", 
-                "id": "406811956143615"
-            }, 
-            "attachments": {
-                "data": [
-                    {
-                        "url": "https://www.facebook.com/photo.php?fbid=680681008756707&set=gm.1809213176023372&type=3", 
-                        "media": {
-                            "image": {
-                                "src": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/15056285_680681008756707_1153289329283520953_n.jpg?oh=6a72e6cad4d506073cbd91fad36d4e88&oe=5912A46F", 
-                                "width": 720, 
-                                "height": 540
-                            }
-                        }, 
-                        "type": "photo", 
-                        "target": {
-                            "url": "https://www.facebook.com/photo.php?fbid=680681008756707&set=gm.1809213176023372&type=3", 
-                            "id": "680681008756707"
-                        }
-                    }
-                ]
-            }, 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "total_count": 26, 
-                    "order": "chronological"
-                }
-            }, 
-            "updated_time": "2016-11-21T01:48:27+0000", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 317
-                }
-            }, 
-            "created_time": "2016-11-20T06:16:37+0000", 
-            "id": "1717731545171536_1809213176023372"
-        }, 
-        {
-            "from": {
-                "name": "John Rider", 
-                "id": "1372657079425568"
-            }, 
-            "attachments": {
-                "data": [
-                    {
-                        "type": "unavailable", 
-                        "description": "This attachment may have been removed or the person who shared it may not have permission to share it with you.", 
-                        "title": "Attachment Unavailable"
+                        "url": "https://www.facebook.com/photo.php?fbid=1035751166548314&set=gm.1808640446080645&type=3"
                     }
                 ]
             }, 
@@ -1161,72 +24,56 @@
                     "order": "chronological"
                 }
             }, 
-            "updated_time": "2016-11-21T01:28:48+0000", 
+            "updated_time": "2016-11-20T05:52:52+0000", 
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 119
+                    "total_count": 187
                 }
             }, 
-            "created_time": "2016-11-20T23:51:21+0000", 
-            "message": "SAD reacts only pls", 
-            "id": "1717731545171536_1809586969319326"
+            "created_time": "2016-11-19T04:39:59+0000", 
+            "id": "1717731545171536_1808640446080645"
         }, 
         {
+            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15095534_1183063231728757_1951697340275282347_n.jpg?oh=0f0ff4b6e33e1deb1d61e60c782fc351&oe=5945A2D9", 
             "from": {
-                "name": "Michael Neff", 
-                "id": "10206004301219281"
+                "name": "Riley Woo", 
+                "id": "742515275783557"
             }, 
             "attachments": {
                 "data": [
                     {
-                        "type": "unavailable", 
-                        "description": "This attachment may have been removed or the person who shared it may not have permission to share it with you.", 
-                        "title": "Attachment Unavailable"
+                        "url": "https://www.facebook.com/photo.php?fbid=1183063231728757&set=gm.1806776276267062&type=3"
                     }
                 ]
             }, 
             "comments": {
                 "data": [], 
                 "summary": {
-                    "total_count": 33, 
+                    "total_count": 135, 
                     "order": "chronological"
                 }
             }, 
-            "updated_time": "2016-11-21T00:57:11+0000", 
+            "updated_time": "2016-11-20T05:36:46+0000", 
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1222
+                    "total_count": 1539
                 }
             }, 
-            "created_time": "2016-11-20T02:18:40+0000", 
-            "message": "I Cri Evrytiem", 
-            "id": "1717731545171536_1809112922700064"
+            "created_time": "2016-11-15T04:41:49+0000", 
+            "id": "1717731545171536_1806776276267062"
         }, 
         {
-            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/15171160_1242188635840741_4464103729234766921_n.jpg?oh=16114f4e4294fa0c91b8a8e6012fc3de&oe=5910BB28", 
+            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/q89/s130x130/15037111_1223692914357934_1950006715643866581_n.jpg?oh=4ed76507bfb1bd455fe61c49357a5b92&oe=590202FF", 
             "from": {
-                "name": "David J. Lim", 
-                "id": "817146888344920"
+                "name": "Vincent De Paul Mignon", 
+                "id": "706735716053659"
             }, 
             "attachments": {
                 "data": [
                     {
-                        "url": "https://www.facebook.com/photo.php?fbid=1242188635840741&set=gm.1809207149357308&type=3", 
-                        "media": {
-                            "image": {
-                                "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/p720x720/15171160_1242188635840741_4464103729234766921_n.jpg?oh=637f7a08115d055c00cb9fae08364a3d&oe=5908893D", 
-                                "width": 720, 
-                                "height": 720
-                            }
-                        }, 
-                        "type": "photo", 
-                        "description": "Mmmm... \ud83e\udd14", 
-                        "target": {
-                            "url": "https://www.facebook.com/photo.php?fbid=1242188635840741&set=gm.1809207149357308&type=3", 
-                            "id": "1242188635840741"
-                        }
+                        "url": "https://www.facebook.com/photo.php?fbid=1223692914357934&set=gm.1809076022703754&type=3"
                     }
                 ]
             }, 
@@ -1237,156 +84,127 @@
                     "order": "chronological"
                 }
             }, 
-            "updated_time": "2016-11-20T22:25:53+0000", 
+            "updated_time": "2016-11-20T04:31:26+0000", 
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 250
+                    "total_count": 57
                 }
             }, 
-            "created_time": "2016-11-20T05:57:46+0000", 
-            "message": "Mmmm... \ud83e\udd14", 
-            "id": "1717731545171536_1809207149357308"
+            "created_time": "2016-11-20T00:03:53+0000", 
+            "message": "If I have a wish for you guys throughout your years at Cal (or whichever intruding uni), it's that you learn the TRUE meaning of some words. Here's one. The other is sleep...it doesn't exist!", 
+            "id": "1717731545171536_1809076022703754"
         }, 
         {
-            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/14591854_10205549222290319_4449633079140257208_n.jpg?oh=c78835aedc9ee0080dda01e92f267289&oe=5946A68B", 
             "from": {
-                "name": "Himakar Nagam", 
-                "id": "10200911764316768"
+                "name": "Ryan Williams", 
+                "id": "10202484224081866"
+            }, 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "total_count": 162, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-11-20T04:12:27+0000", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 547
+                }
+            }, 
+            "created_time": "2016-11-13T06:08:59+0000", 
+            "message": "sad reacts", 
+            "id": "1717731545171536_1805781979699825"
+        }, 
+        {
+            "from": {
+                "name": "Jack Wang", 
+                "id": "10203249865871665"
+            }, 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "total_count": 10, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-11-20T04:12:18+0000", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 697
+                }
+            }, 
+            "created_time": "2016-11-19T03:30:59+0000", 
+            "message": "by chancellor decree tom and jerry memes are gunna be a thing", 
+            "id": "1717731545171536_1808617002749656"
+        }, 
+        {
+            "from": {
+                "name": "Annie Xu", 
+                "id": "290045668078228"
+            }, 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "total_count": 59, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-11-20T03:56:53+0000", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 510
+                }
+            }, 
+            "created_time": "2016-11-18T01:26:06+0000", 
+            "message": "They should call it Berkellllllllllllllllllllllllllllley because I've taken way more than one \"L\" while I've been here.", 
+            "id": "1717731545171536_1808102556134434"
+        }, 
+        {
+            "picture": "https://scontent.xx.fbcdn.net/v/t15.0-10/s130x130/15132297_1160722327330426_6450670871454416896_n.jpg?oh=3d1585b0b78cb555ad30feb7de5da38c&oe=5907BA7C", 
+            "from": {
+                "name": "Robert Quitt", 
+                "id": "835391306530198"
             }, 
             "attachments": {
                 "data": [
                     {
-                        "url": "https://www.facebook.com/photo.php?fbid=10205549222290319&set=gm.1798039160474107&type=3", 
-                        "media": {
-                            "image": {
-                                "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/14591854_10205549222290319_4449633079140257208_n.jpg?oh=77226a5c3ca74c60f8be4f2332bfe230&oe=58FD5986", 
-                                "width": 720, 
-                                "height": 614
-                            }
-                        }, 
-                        "type": "photo", 
-                        "target": {
-                            "url": "https://www.facebook.com/photo.php?fbid=10205549222290319&set=gm.1798039160474107&type=3", 
-                            "id": "10205549222290319"
-                        }
+                        "url": "https://www.facebook.com/robert.quitt/videos/1160722063997119/"
                     }
                 ]
             }, 
             "comments": {
                 "data": [], 
                 "summary": {
-                    "total_count": 120, 
+                    "total_count": 13, 
                     "order": "chronological"
                 }
             }, 
-            "updated_time": "2016-11-20T21:28:54+0000", 
+            "updated_time": "2016-11-20T03:38:49+0000", 
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 850
+                    "total_count": 68
                 }
             }, 
-            "created_time": "2016-10-29T22:55:44+0000", 
-            "id": "1717731545171536_1798039160474107"
+            "created_time": "2016-11-18T06:47:28+0000", 
+            "message": "Credits to Brielle Eleanor\n\nMade with Vim btw", 
+            "id": "1717731545171536_1808197196124970"
         }, 
         {
+            "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAEe4RUl1iLBQFC&url=http%3A%2F%2F68.media.tumblr.com%2Fecfb625dc6f69c5db7ef6b7e363c2b03%2Ftumblr_od1xfbhZR71v6xsm2o1_540.gif&_nc_hash=AQCLUqfU3CHxj0FV", 
             "from": {
-                "name": "Joshua Nuesca", 
-                "id": "973234109362170"
+                "name": "Brendan Tang", 
+                "id": "783229448410697"
             }, 
             "attachments": {
                 "data": [
                     {
-                        "type": "unavailable", 
-                        "description": "This attachment may have been removed or the person who shared it may not have permission to share it with you.", 
-                        "title": "Attachment Unavailable"
-                    }
-                ]
-            }, 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "total_count": 116, 
-                    "order": "chronological"
-                }
-            }, 
-            "updated_time": "2016-11-20T21:06:08+0000", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 863
-                }
-            }, 
-            "created_time": "2016-11-18T10:50:10+0000", 
-            "message": "to all the RAs:\nu kno u want to", 
-            "id": "1717731545171536_1808271296117560"
-        }, 
-        {
-            "picture": "https://scontent.xx.fbcdn.net/v/t15.0-10/s130x130/15132303_1348289178534973_6137745352473706496_n.jpg?oh=c54f56c6ac647135243b9295ee2053d0&oe=590F098F", 
-            "from": {
-                "name": "Sean Zhu", 
-                "id": "775992649097965"
-            }, 
-            "attachments": {
-                "data": [
-                    {
-                        "url": "https://www.facebook.com/hello.sean.zhu/videos/1348288535201704/", 
-                        "media": {
-                            "image": {
-                                "src": "https://scontent.xx.fbcdn.net/v/t15.0-10/s720x720/15132303_1348289178534973_6137745352473706496_n.jpg?oh=423383fc02e4a37fdc99de193073f9e8&oe=5912A4AD", 
-                                "width": 720, 
-                                "height": 405
-                            }
-                        }, 
-                        "type": "video_inline", 
-                        "target": {
-                            "url": "https://www.facebook.com/hello.sean.zhu/videos/1348288535201704/", 
-                            "id": "1348288535201704"
-                        }
-                    }
-                ]
-            }, 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "total_count": 11, 
-                    "order": "chronological"
-                }
-            }, 
-            "updated_time": "2016-11-20T19:32:13+0000", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 225
-                }
-            }, 
-            "created_time": "2016-11-19T09:47:33+0000", 
-            "message": "When you go to AFX practice even tho you can bearly dance\n\nGO BEARS! (Cal vs. Stanford)\nAFX Fall 2016 Showcase\n(You can go to both tomorrow!!)", 
-            "id": "1717731545171536_1808741029403920"
-        }, 
-        {
-            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/15037330_214191722321399_2302633310962052792_n.jpg?oh=a2827e494190ca9fc55345c26a0ad6b1&oe=590FB61A", 
-            "from": {
-                "name": "Bita Woods", 
-                "id": "264345210639383"
-            }, 
-            "attachments": {
-                "data": [
-                    {
-                        "url": "https://www.facebook.com/photo.php?fbid=214191722321399&set=gm.1808567822754574&type=3", 
-                        "media": {
-                            "image": {
-                                "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/p720x720/15037330_214191722321399_2302633310962052792_n.jpg?oh=6fe589286813dc47f76385e5f638979e&oe=593E99E5", 
-                                "width": 720, 
-                                "height": 720
-                            }
-                        }, 
-                        "type": "photo", 
-                        "target": {
-                            "url": "https://www.facebook.com/photo.php?fbid=214191722321399&set=gm.1808567822754574&type=3", 
-                            "id": "214191722321399"
-                        }
+                        "url": "http://l.facebook.com/l.php?u=http%3A%2F%2F68.media.tumblr.com%2Fecfb625dc6f69c5db7ef6b7e363c2b03%2Ftumblr_od1xfbhZR71v6xsm2o1_540.gif&h=ATNZ2FiImbzVi6u8R4-7DTv4y6E5-FCOoH21fGhNhkMGAXI-xrdjEvg274goyxX3U7iZMZH2gJnteShmr7Y30wBfIbfWhqn3bJ6K5bifyti3-K_aYnA_C9h3EHcxd3H4mA&s=1&enc=AZObfFCZ1HR3KMPfWpsZQI8k8iGk8-J74DQGyRNn8zEhb-ogncjVyZpRj-tcU4VUJ3J-uWxPUt3f7ay0gJUduGbvGGGBfwKIqKN_D0jBBHExDA"
                     }
                 ]
             }, 
@@ -1397,112 +215,27 @@
                     "order": "chronological"
                 }
             }, 
-            "updated_time": "2016-11-20T18:31:37+0000", 
+            "updated_time": "2016-11-20T03:37:58+0000", 
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 337
+                    "total_count": 58
                 }
             }, 
-            "created_time": "2016-11-19T00:14:04+0000", 
-            "id": "1717731545171536_1808567822754574"
+            "created_time": "2016-11-19T06:16:49+0000", 
+            "message": "When Cal asks for donations but you can't even pay tuition.", 
+            "id": "1717731545171536_1808675752743781"
         }, 
         {
-            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15037166_1240961455960634_6903371341974586579_n.jpg?oh=97a90cdd41299e99f74b3795a293a23a&oe=594A5683", 
+            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15109452_1560332523996552_1950163732393549148_n.jpg?oh=7f1bf9c8076f3672890f71e2f53d3690&oe=590A1AEB", 
             "from": {
-                "name": "Tri Do", 
-                "id": "801709033219214"
+                "name": "Ramsey Atallah", 
+                "id": "970161549680322"
             }, 
             "attachments": {
                 "data": [
                     {
-                        "url": "https://www.facebook.com/photo.php?fbid=1240961455960634&set=gm.1808618659416157&type=3", 
-                        "media": {
-                            "image": {
-                                "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/15037166_1240961455960634_6903371341974586579_n.jpg?oh=776d11af00f769768ceb70f8a12a61a9&oe=58FDF096", 
-                                "width": 540, 
-                                "height": 720
-                            }
-                        }, 
-                        "type": "photo", 
-                        "target": {
-                            "url": "https://www.facebook.com/photo.php?fbid=1240961455960634&set=gm.1808618659416157&type=3", 
-                            "id": "1240961455960634"
-                        }
-                    }
-                ]
-            }, 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "total_count": 13, 
-                    "order": "chronological"
-                }
-            }, 
-            "updated_time": "2016-11-20T17:56:26+0000", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 425
-                }
-            }, 
-            "created_time": "2016-11-19T03:37:40+0000", 
-            "id": "1717731545171536_1808618659416157"
-        }, 
-        {
-            "from": {
-                "name": "Joel Kohn", 
-                "id": "10204004554416062"
-            }, 
-            "attachments": {
-                "data": [
-                    {
-                        "type": "unavailable", 
-                        "description": "This attachment may have been removed or the person who shared it may not have permission to share it with you.", 
-                        "title": "Attachment Unavailable"
-                    }
-                ]
-            }, 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "total_count": 2, 
-                    "order": "chronological"
-                }
-            }, 
-            "updated_time": "2016-11-20T17:24:33+0000", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 105
-                }
-            }, 
-            "created_time": "2016-11-20T04:52:19+0000", 
-            "id": "1717731545171536_1809180146026675"
-        }, 
-        {
-            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/q83/s130x130/15027792_1435490156478670_5982057969587162336_n.jpg?oh=5de9c0d852f5a82bd1c6967dcfb7e50d&oe=58FD8FC3", 
-            "from": {
-                "name": "Nathan Yuchi", 
-                "id": "821378601223165"
-            }, 
-            "attachments": {
-                "data": [
-                    {
-                        "url": "https://www.facebook.com/photo.php?fbid=1435490156478670&set=gm.1809110822700274&type=3", 
-                        "media": {
-                            "image": {
-                                "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/15027792_1435490156478670_5982057969587162336_n.jpg?oh=5260d71ab3ad7870aa11856652fbeb01&oe=59067AFF", 
-                                "width": 720, 
-                                "height": 522
-                            }
-                        }, 
-                        "type": "photo", 
-                        "description": "sad reacts only plis", 
-                        "target": {
-                            "url": "https://www.facebook.com/photo.php?fbid=1435490156478670&set=gm.1809110822700274&type=3", 
-                            "id": "1435490156478670"
-                        }
+                        "url": "https://www.facebook.com/photo.php?fbid=1560332523996552&set=gm.1808119132799443&type=3"
                     }
                 ]
             }, 
@@ -1513,148 +246,352 @@
                     "order": "chronological"
                 }
             }, 
-            "updated_time": "2016-11-20T16:54:36+0000", 
+            "updated_time": "2016-11-20T02:13:06+0000", 
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 349
+                    "total_count": 293
                 }
             }, 
-            "created_time": "2016-11-20T02:14:13+0000", 
-            "message": "sad reacts only plis", 
-            "id": "1717731545171536_1809110822700274"
+            "created_time": "2016-11-18T02:27:59+0000", 
+            "id": "1717731545171536_1808119132799443"
         }, 
         {
-            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/10622899_1215614381829461_3090924027022429782_n.jpg?oh=845cbb066dc325a4bd368c62588ff1c3&oe=59410E48", 
+            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/15036286_696142160550780_2432370190424803720_n.jpg?oh=9d9f0287b1649ea49b1f7a9615c9da7e&oe=5948E31D", 
             "from": {
-                "name": "Andrew Quincy Roman", 
-                "id": "728698653854372"
+                "name": "Kyung Geun Kim", 
+                "id": "284036758427991"
             }, 
             "attachments": {
                 "data": [
                     {
-                        "url": "https://www.facebook.com/photo.php?fbid=1215614381829461&set=gm.1809109252700431&type=3", 
-                        "media": {
-                            "image": {
-                                "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/10622899_1215614381829461_3090924027022429782_n.jpg?oh=d4b0aa1526cf7b22182cf094289100c7&oe=59021C23", 
-                                "width": 600, 
-                                "height": 403
-                            }
-                        }, 
-                        "type": "photo", 
-                        "description": "Everyone at the Big Game right now", 
-                        "target": {
-                            "url": "https://www.facebook.com/photo.php?fbid=1215614381829461&set=gm.1809109252700431&type=3", 
-                            "id": "1215614381829461"
-                        }
+                        "url": "https://www.facebook.com/photo.php?fbid=696142160550780&set=gm.1808251619452861&type=3"
                     }
                 ]
             }, 
             "comments": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1, 
+                    "total_count": 16, 
                     "order": "chronological"
                 }
             }, 
-            "updated_time": "2016-11-20T15:15:48+0000", 
+            "updated_time": "2016-11-20T01:12:30+0000", 
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 153
+                    "total_count": 421
                 }
             }, 
-            "created_time": "2016-11-20T02:10:06+0000", 
-            "message": "Everyone at the Big Game right now", 
-            "id": "1717731545171536_1809109252700431"
+            "created_time": "2016-11-18T09:38:53+0000", 
+            "id": "1717731545171536_1808251619452861"
         }, 
         {
+            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15032131_1791814564419741_776997380656408771_n.jpg?oh=ac049bc378858393c51c9dfa9ef1aa1e&oe=590DA194", 
             "from": {
-                "name": "Leo Adberg", 
-                "id": "1077291092360605"
+                "name": "Asia Nicole Firebaugh", 
+                "id": "1700658940201971"
             }, 
             "attachments": {
                 "data": [
                     {
-                        "type": "unavailable", 
-                        "description": "This attachment may have been removed or the person who shared it may not have permission to share it with you.", 
-                        "title": "Attachment Unavailable"
+                        "url": "https://www.facebook.com/media/set/?set=pcb.1808476692763687&type=1"
                     }
                 ]
             }, 
             "comments": {
                 "data": [], 
                 "summary": {
-                    "total_count": 8, 
+                    "total_count": 14, 
                     "order": "chronological"
                 }
             }, 
-            "updated_time": "2016-11-20T13:10:11+0000", 
+            "updated_time": "2016-11-19T22:00:54+0000", 
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 299
+                    "total_count": 354
                 }
             }, 
-            "created_time": "2016-11-19T09:32:11+0000", 
-            "message": "@ game day", 
-            "id": "1717731545171536_1808736852737671"
+            "created_time": "2016-11-18T20:20:48+0000", 
+            "message": "FIGHT FOR CALIFORNIAAAAAAAAAAAAA", 
+            "id": "1717731545171536_1808476692763687"
+        }, 
+        {
+            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/14993480_1240756475983957_1497152378066151927_n.jpg?oh=dbf9a956923826cd3138cb9679a4c32b&oe=5904F3D5", 
+            "from": {
+                "name": "David J. Lim", 
+                "id": "817146888344920"
+            }, 
+            "attachments": {
+                "data": [
+                    {
+                        "url": "https://www.facebook.com/photo.php?fbid=1240756475983957&set=gm.1808481582763198&type=3"
+                    }
+                ]
+            }, 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "total_count": 37, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-11-19T21:38:19+0000", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 457
+                }
+            }, 
+            "created_time": "2016-11-18T20:32:33+0000", 
+            "message": "\"Suck Fanford, GO BEARS.\" d@nk@f \ud83c\udf41\ud83c\udf36\ud83c\udf44\ud83d\udd25\ud83d\udcaf\u2668\ud83d\udcb8\nIt took two Davids to handle how dank this meme is David Luo", 
+            "id": "1717731545171536_1808481582763198"
+        }, 
+        {
+            "from": {
+                "name": "Nicole Rankin", 
+                "id": "10205527827374319"
+            }, 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "total_count": 22, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-11-19T21:27:25+0000", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 633
+                }
+            }, 
+            "created_time": "2016-11-17T04:46:13+0000", 
+            "id": "1717731545171536_1807704476174242"
         }, 
         {
             "from": {
                 "name": "Twee Mac", 
                 "id": "10203088325035475"
             }, 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "total_count": 122, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-11-19T20:23:26+0000", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 1956
+                }
+            }, 
+            "created_time": "2016-11-17T06:38:06+0000", 
+            "id": "1717731545171536_1807735589504464"
+        }, 
+        {
+            "from": {
+                "name": "Paris Shockley", 
+                "id": "10204103461362959"
+            }, 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "total_count": 48, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-11-19T18:59:55+0000", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 525
+                }
+            }, 
+            "created_time": "2016-11-18T07:24:29+0000", 
+            "message": "Oski finally spent 5 minutes with us in the black community... take a look", 
+            "id": "1717731545171536_1808208966123793"
+        }, 
+        {
+            "from": {
+                "name": "Tanyia Dadbin", 
+                "id": "10204762881448687"
+            }, 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "total_count": 62, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-11-19T18:21:27+0000", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 290
+                }
+            }, 
+            "created_time": "2016-11-18T07:20:54+0000", 
+            "message": "Late night", 
+            "id": "1717731545171536_1808207889457234"
+        }, 
+        {
+            "from": {
+                "name": "AJ Glassman", 
+                "id": "10203690482360159"
+            }, 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "total_count": 33, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-11-19T17:39:15+0000", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 719
+                }
+            }, 
+            "created_time": "2016-11-18T19:55:39+0000", 
+            "message": "T\u2019was the night before big game, when all through greek row,\nNot a white girl was screaming, not even Chi-O\nThe beers were stocked in the fridge by the rack\nIn the hopes that the Bears would soon get a sac.\nThe students were nestled snug in their beds,\nWith visions of touchdown dances in their heads.\nAnd in lucky socks, and jerseys and caps\nThey\u2019d come back from the game for drunken naps\nWhen out of the stadium there rose such a clatter,\nI sprang from my bunk to see what was the matter.\nTo the window, my bros right behind\nTore open the shutters and threw up the blinds\nThe sun was rising, the speakers were powered\nThe tailgates were starting, I hopped in the shower.\nOn with my cal gear, I ran down the stairs\nHad pledges hold signs with our parking fares\nAnd on morning went, as game time drew near,\nOur bellies were full with pre-game beers\nWe got to the stadium, took our seats in the stand\nCheered for dancers and mic men, rally-comm and band\nWith a little old driver, the ball was hiked\nI knew in the moment it must be Coach Dykes\nMore rapid than the Trees, his Bears they came,\nAnd he whistled, and shouted, and called them by name!\nNow Webb! Now, Hansen! Now, Stovall and Walker!\nOn, Robertson! On, Peterson! On, Downs and Garner!\nTo the Stanfurd Endzone! To the top of the play!\nNow pass the ball! Run the ball! Make the fans day!\nAs Stanfurd Trees fall and hit the ground with a thud\nWhen they come \u2018cross the bears, there will be tears and blood\nSo up to the line the team took the ball,\nWith the students cheering, watching them all\nAnd then with a whistle, I heard through the crush\nThe bears sacked Stanfurd in a defensive rush.\nAs we screamed and hollered and let out a cry,\nThe bears had stopped Stanfurd from a touchdown drive.\nThey wore blue and gold, the colors offset\nAnd their jerseys were tarnished with dedication and sweat\nThe punt they received, and they ran and they passed\nAnd they pushed for our goal, to get the axe back.\nTheir tackles-how crushing! Their plays- how fast!\nThey made their drive. Stanfurd they passed.\nThe receivers ran in a line and a hook\nAnd with a touchdown, another six points they took.\nThey spoke not a word, and turned straight back around,\nWith a successful conversion they drove Trees to the ground.\nAnd the crowds they were cheering, as the clock ran down low\nAnd the mic men were screaming and the speakers did blow.\nThe fourth quarter ended with a blow of a whistle,\nAnd the crowd rushed the field like the down of a thistle.\nBut I heard them exclaim, as Dykes grabbed the mic back,\n\u201cHappy Big Game to All, Now we have the axe.", 
+            "id": "1717731545171536_1808465432764813"
+        }, 
+        {
+            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15027455_1181950321840048_8867931913026557604_n.jpg?oh=093e1330ded0fbebf32e04b2423bcbad&oe=591558C6", 
+            "from": {
+                "name": "Riley Woo", 
+                "id": "742515275783557"
+            }, 
             "attachments": {
                 "data": [
                     {
-                        "type": "unavailable", 
-                        "description": "This attachment may have been removed or the person who shared it may not have permission to share it with you.", 
-                        "title": "Attachment Unavailable"
+                        "url": "https://www.facebook.com/photo.php?fbid=1181950321840048&set=gm.1806277732983583&type=3"
                     }
                 ]
             }, 
             "comments": {
                 "data": [], 
                 "summary": {
-                    "total_count": 25, 
+                    "total_count": 41, 
                     "order": "chronological"
                 }
             }, 
-            "updated_time": "2016-11-20T11:05:27+0000", 
+            "updated_time": "2016-11-19T10:12:02+0000", 
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 914
+                    "total_count": 556
                 }
             }, 
-            "created_time": "2016-11-19T05:31:19+0000", 
-            "id": "1717731545171536_1808654939412529"
+            "created_time": "2016-11-14T03:58:37+0000", 
+            "id": "1717731545171536_1806277732983583"
         }, 
         {
-            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15094853_1329094527122655_7195107655688527447_n.jpg?oh=c79bc1533619e50191936de03be1180a&oe=59479FEF", 
             "from": {
-                "name": "Benigno Naval", 
-                "id": "1194105523954890"
+                "name": "Zheng Zhu", 
+                "id": "10201356215498395"
+            }, 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "total_count": 12, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-11-19T10:07:35+0000", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 199
+                }
+            }, 
+            "created_time": "2016-11-18T04:15:00+0000", 
+            "message": "Can't tell if OC\nShoutout to OG memer: Christopher Cox\nhttps://www.facebook.com/groups/1717731545171536/permalink/1808129636131726/", 
+            "id": "1717731545171536_1808155979462425"
+        }, 
+        {
+            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15109352_1287253264649369_1348789040662518740_n.jpg?oh=69d80a5b7805610a682a362591be2038&oe=5942C28C", 
+            "from": {
+                "name": "Kimberly Ochoa", 
+                "id": "770310119677022"
             }, 
             "attachments": {
                 "data": [
                     {
-                        "url": "https://www.facebook.com/photo.php?fbid=1329094527122655&set=gm.1809291216015568&type=3", 
-                        "media": {
-                            "image": {
-                                "src": "https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/15094853_1329094527122655_7195107655688527447_n.jpg?oh=b9e2cabdf3e2983aad0c9b091cfdd6e5&oe=5904BF93", 
-                                "width": 720, 
-                                "height": 540
-                            }
-                        }, 
-                        "type": "photo", 
-                        "target": {
-                            "url": "https://www.facebook.com/photo.php?fbid=1329094527122655&set=gm.1809291216015568&type=3", 
-                            "id": "1329094527122655"
-                        }
+                        "url": "https://www.facebook.com/photo.php?fbid=1287253264649369&set=gm.1808060116138678&type=3"
                     }
                 ]
+            }, 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "total_count": 10, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-11-19T10:06:19+0000", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 248
+                }
+            }, 
+            "created_time": "2016-11-17T22:56:05+0000", 
+            "id": "1717731545171536_1808060116138678"
+        }, 
+        {
+            "from": {
+                "name": "David Luo", 
+                "id": "10207981488883647"
+            }, 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "total_count": 59, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-11-19T09:45:14+0000", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 1197
+                }
+            }, 
+            "created_time": "2016-11-17T23:39:22+0000", 
+            "id": "1717731545171536_1808070629470960"
+        }, 
+        {
+            "from": {
+                "name": "Michael Rivas", 
+                "id": "955133064510831"
+            }, 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "total_count": 6, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-11-19T09:29:52+0000", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 118
+                }
+            }, 
+            "created_time": "2016-11-19T03:23:49+0000", 
+            "id": "1717731545171536_1808615416083148"
+        }, 
+        {
+            "from": {
+                "name": "Roger Li", 
+                "id": "1055706361116239"
             }, 
             "comments": {
                 "data": [], 
@@ -1663,128 +600,58 @@
                     "order": "chronological"
                 }
             }, 
-            "updated_time": "2016-11-20T09:52:50+0000", 
+            "updated_time": "2016-11-19T09:16:36+0000", 
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 34
+                    "total_count": 44
                 }
             }, 
-            "created_time": "2016-11-20T09:52:50+0000", 
-            "id": "1717731545171536_1809291216015568"
+            "created_time": "2016-11-19T09:16:36+0000", 
+            "message": "Google's Quickdraw still needs work, tbh...", 
+            "id": "1717731545171536_1808732356071454"
         }, 
         {
-            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/14980590_10157699283755075_115175578300890086_n.jpg?oh=b49b8966af33ae1027147da49331bed2&oe=58FDCB8E", 
+            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15094335_1107886459265175_9013525047159828329_n.jpg?oh=fb35841347b9aee16c7a8abef871dda6&oe=59129A8E", 
             "from": {
-                "name": "Tommy Emick", 
-                "id": "992333480815723"
+                "name": "Roma Patterson", 
+                "id": "764089836978174"
             }, 
             "attachments": {
                 "data": [
                     {
-                        "description": "We all wish this scene had made it in. Clearly Oliver Wood had no sense of humor when it came to Quidditch. #QuidditchMonth", 
-                        "title": "Timeline Photos", 
-                        "url": "https://www.facebook.com/mugglenet/photos/a.10151012727100075.765287.14121585074/10157699283755075/?type=3", 
-                        "media": {
-                            "image": {
-                                "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/14980590_10157699283755075_115175578300890086_n.jpg?oh=0d90cd145cb02de134eb2eb1fec11319&oe=590A56E5", 
-                                "width": 500, 
-                                "height": 628
-                            }
-                        }, 
-                        "type": "photo", 
-                        "target": {
-                            "url": "https://www.facebook.com/mugglenet/photos/a.10151012727100075.765287.14121585074/10157699283755075/?type=3", 
-                            "id": "10157699283755075"
-                        }
+                        "url": "https://www.facebook.com/photo.php?fbid=1107886459265175&set=gm.1808103122801044&type=3"
                     }
                 ]
             }, 
             "comments": {
                 "data": [], 
                 "summary": {
-                    "total_count": 0, 
+                    "total_count": 6, 
                     "order": "chronological"
                 }
             }, 
-            "updated_time": "2016-11-20T09:06:59+0000", 
+            "updated_time": "2016-11-19T08:56:44+0000", 
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 34
+                    "total_count": 264
                 }
             }, 
-            "created_time": "2016-11-20T09:06:59+0000", 
-            "message": "Cal football game be like", 
-            "id": "1717731545171536_1809278289350194"
+            "created_time": "2016-11-18T01:28:01+0000", 
+            "message": "Congrats on ur Oscar Leo! U inspire me @ cal evertim", 
+            "id": "1717731545171536_1808103122801044"
         }, 
         {
-            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15056318_1317761181588783_1229579467109188770_n.jpg?oh=97a0717965be53ad46581449e8776f14&oe=5913623A", 
+            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15134706_1312783448761560_8650852538682116139_n.jpg?oh=9ad6e970b7ed468a4348156638381346&oe=594A9CEE", 
             "from": {
-                "name": "Kendal Asprec", 
-                "id": "1181310735233829"
+                "name": "Remy Renee D'Agnillo", 
+                "id": "823277781045465"
             }, 
             "attachments": {
                 "data": [
                     {
-                        "url": "https://www.facebook.com/photo.php?fbid=1317761181588783&set=gm.1809264869351536&type=3", 
-                        "media": {
-                            "image": {
-                                "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/15056318_1317761181588783_1229579467109188770_n.jpg?oh=2e50c91b4e2c8a13767e836071093831&oe=59415D2F", 
-                                "width": 720, 
-                                "height": 549
-                            }
-                        }, 
-                        "type": "photo", 
-                        "description": "Evil has won.", 
-                        "target": {
-                            "url": "https://www.facebook.com/photo.php?fbid=1317761181588783&set=gm.1809264869351536&type=3", 
-                            "id": "1317761181588783"
-                        }
-                    }
-                ]
-            }, 
-            "comments": {
-                "data": [], 
-                "summary": {
-                    "total_count": 3, 
-                    "order": "chronological"
-                }
-            }, 
-            "updated_time": "2016-11-20T08:44:12+0000", 
-            "likes": {
-                "data": [], 
-                "summary": {
-                    "total_count": 221
-                }
-            }, 
-            "created_time": "2016-11-20T08:44:12+0000", 
-            "message": "Evil has won.", 
-            "id": "1717731545171536_1809264869351536"
-        }, 
-        {
-            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15037132_1228538993835967_4781438182045716805_n.jpg?oh=eab6333d3b2612b0ccce081da94fae3e&oe=590951DF", 
-            "from": {
-                "name": "Peter Martinka", 
-                "id": "848003735222830"
-            }, 
-            "attachments": {
-                "data": [
-                    {
-                        "url": "https://www.facebook.com/photo.php?fbid=1228538993835967&set=gm.1807227502888606&type=3", 
-                        "media": {
-                            "image": {
-                                "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/15037132_1228538993835967_4781438182045716805_n.jpg?oh=a654671ca2bdf6b1f9b00c1d81140b66&oe=590221CA", 
-                                "width": 720, 
-                                "height": 606
-                            }
-                        }, 
-                        "type": "photo", 
-                        "description": "protect superior berkeley memes from ivy repost pages", 
-                        "target": {
-                            "url": "https://www.facebook.com/photo.php?fbid=1228538993835967&set=gm.1807227502888606&type=3", 
-                            "id": "1228538993835967"
-                        }
+                        "url": "https://www.facebook.com/photo.php?fbid=1312783448761560&set=gm.1808162179461805&type=3"
                     }
                 ]
             }, 
@@ -1795,65 +662,104 @@
                     "order": "chronological"
                 }
             }, 
-            "updated_time": "2016-11-20T08:43:20+0000", 
+            "updated_time": "2016-11-19T07:58:19+0000", 
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 698
+                    "total_count": 485
                 }
             }, 
-            "created_time": "2016-11-16T04:50:32+0000", 
-            "message": "protect superior berkeley memes from ivy repost pages", 
-            "id": "1717731545171536_1807227502888606"
+            "created_time": "2016-11-18T04:39:42+0000", 
+            "message": "made myself a care package", 
+            "id": "1717731545171536_1808162179461805"
         }, 
         {
-            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15109605_1785139665032214_5469228667826645057_n.jpg?oh=a9a0de21aa66e51992666a9b5a4a66be&oe=594914DF", 
             "from": {
-                "name": "Kha", 
-                "id": "1684211471791701"
+                "name": "Andrew Quincy Roman", 
+                "id": "728698653854372"
+            }, 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "total_count": 2, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-11-19T07:40:57+0000", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 20
+                }
+            }, 
+            "created_time": "2016-11-19T07:22:53+0000", 
+            "message": "I promised myself I wouldn't browse UC Berkeley Memes for Edgy Teens. I promised myself. I promised myself. I promised myself. There is something wrong with this place. I feel the dankness. It's taking over my life.", 
+            "id": "1717731545171536_1808697926074897"
+        }, 
+        {
+            "from": {
+                "name": "Aaron Yu Jia Ze", 
+                "id": "1235102926504888"
+            }, 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "total_count": 43, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-11-19T07:32:37+0000", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 398
+                }
+            }, 
+            "created_time": "2016-11-16T11:25:07+0000", 
+            "id": "1717731545171536_1807354756209214"
+        }, 
+        {
+            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15078668_679933902164751_6685394378452186238_n.jpg?oh=37f2d99bd526b4d83c238a4b45e85ba5&oe=5941EA47", 
+            "from": {
+                "name": "Josh Weinstein", 
+                "id": "406811956143615"
             }, 
             "attachments": {
                 "data": [
                     {
-                        "url": "https://www.facebook.com/photo.php?fbid=1785139665032214&set=gm.1808533029424720&type=3", 
-                        "media": {
-                            "image": {
-                                "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/15109605_1785139665032214_5469228667826645057_n.jpg?oh=85d19918582d102db0e1d36d9abe5efa&oe=594BD0B4", 
-                                "width": 694, 
-                                "height": 324
-                            }
-                        }, 
-                        "type": "photo", 
-                        "description": "Applying to EECS be like", 
-                        "target": {
-                            "url": "https://www.facebook.com/photo.php?fbid=1785139665032214&set=gm.1808533029424720&type=3", 
-                            "id": "1785139665032214"
-                        }
+                        "url": "https://www.facebook.com/photo.php?fbid=679933902164751&set=gm.1808487109429312&type=3"
                     }
                 ]
             }, 
             "comments": {
                 "data": [], 
                 "summary": {
-                    "total_count": 15, 
+                    "total_count": 8, 
                     "order": "chronological"
                 }
             }, 
-            "updated_time": "2016-11-20T08:06:04+0000", 
+            "updated_time": "2016-11-19T07:06:39+0000", 
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 185
+                    "total_count": 992
                 }
             }, 
-            "created_time": "2016-11-18T23:09:16+0000", 
-            "message": "Applying to EECS be like", 
-            "id": "1717731545171536_1808533029424720"
+            "created_time": "2016-11-18T20:52:36+0000", 
+            "id": "1717731545171536_1808487109429312"
         }, 
         {
+            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15134789_1056931364433748_8235971598846150762_n.jpg?oh=a3b520f27998d4be0e379056e6e1e645&oe=594C139B", 
             "from": {
-                "name": "Aidan Backus", 
-                "id": "598623570309009"
+                "name": "Lakshya Jain", 
+                "id": "586758704784352"
+            }, 
+            "attachments": {
+                "data": [
+                    {
+                        "url": "https://www.facebook.com/photo.php?fbid=1056931364433748&set=gm.1808153779462645&type=3"
+                    }
+                ]
             }, 
             "comments": {
                 "data": [], 
@@ -1862,84 +768,156 @@
                     "order": "chronological"
                 }
             }, 
-            "updated_time": "2016-11-20T07:20:14+0000", 
+            "updated_time": "2016-11-19T07:06:09+0000", 
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 128
+                    "total_count": 447
                 }
             }, 
-            "created_time": "2016-11-19T00:56:34+0000", 
-            "message": "When do we beat Stanfurd at the Big Game? They're laughing at us, at our brilliance. And now they are beating us athletically. They're not our friend, believe me. They are beating us athletically. The UC has become a dumping ground for everyone else's problems.\n\nIt's true. These are the best and finest. When Stanfurd sends its people, they're not sending their best. They're not sending you. They're not sending you. They're bringing people that have lots of problems, and they're bringing those problems with them. They're bringing elitism. They're spoiled. They're bringing grade inflation. And some, I assume, are good people.\n\nBut I speak to football players and they tell us what they're getting. And it only makes sense. It makes common sense. They're not sending us the right people. It's coming from more than Stanfurd. It's coming from all over Palo Alto and San Jose, and it's coming probably, probably from UCLA. Because we have no protection and no confidence we don't know what's happening. And it's got to stop and it's got to stop fast.", 
-            "id": "1717731545171536_1808578502753506"
+            "created_time": "2016-11-18T04:04:56+0000", 
+            "message": "Berkeley midterms be like...", 
+            "id": "1717731545171536_1808153779462645"
         }, 
         {
-            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/15078618_724077191074205_7675157886273388049_n.jpg?oh=c5541a66203b03e5a336d7c4100e9207&oe=594998D9", 
+            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15055769_810110239131808_9210733070832397857_n.jpg?oh=019d37cd947e87d91b4cbf9604058da5&oe=5940764A", 
             "from": {
-                "name": "Moni Zha", 
-                "id": "388529451295649"
+                "name": "Nate Young", 
+                "id": "579671425509025"
             }, 
             "attachments": {
                 "data": [
                     {
-                        "url": "https://www.facebook.com/photo.php?fbid=724077191074205&set=gm.1807282592883097&type=3", 
-                        "media": {
-                            "image": {
-                                "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/15078618_724077191074205_7675157886273388049_n.jpg?oh=b965bb72cda27109ba48d91603ec1e65&oe=59049F57", 
-                                "width": 640, 
-                                "height": 640
-                            }
-                        }, 
-                        "type": "photo", 
-                        "description": "INCURABLE MEME OBSESSION ROUND 1", 
-                        "target": {
-                            "url": "https://www.facebook.com/photo.php?fbid=724077191074205&set=gm.1807282592883097&type=3", 
-                            "id": "724077191074205"
-                        }
+                        "url": "https://www.facebook.com/photo.php?fbid=810110239131808&set=gm.1808524056092284&type=3"
                     }
                 ]
             }, 
             "comments": {
                 "data": [], 
                 "summary": {
-                    "total_count": 97, 
+                    "total_count": 20, 
                     "order": "chronological"
                 }
             }, 
-            "updated_time": "2016-11-20T06:48:24+0000", 
+            "updated_time": "2016-11-19T06:50:13+0000", 
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 393
+                    "total_count": 540
                 }
             }, 
-            "created_time": "2016-11-16T07:34:12+0000", 
-            "message": "INCURABLE MEME OBSESSION ROUND 1", 
-            "id": "1717731545171536_1807282592883097"
+            "created_time": "2016-11-18T22:44:01+0000", 
+            "message": "When ur friend charles wont help u with ur cs project", 
+            "id": "1717731545171536_1808524056092284"
         }, 
         {
-            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15095072_1241005395964165_2255585115835539881_n.jpg?oh=4a4f1b3fd9a19fe448d8d5bf795a8bbb&oe=58FE88AE", 
             "from": {
-                "name": "Connor Bunnell", 
-                "id": "680781628653214"
+                "name": "Twee Mac", 
+                "id": "10203088325035475"
+            }, 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "total_count": 5, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-11-19T06:40:14+0000", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 87
+                }
+            }, 
+            "created_time": "2016-11-18T05:23:31+0000", 
+            "id": "1717731545171536_1808172852794071"
+        }, 
+        {
+            "from": {
+                "name": "Poojan Thakrar", 
+                "id": "266779153493811"
+            }, 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "total_count": 3, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-11-19T06:38:35+0000", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 265
+                }
+            }, 
+            "created_time": "2016-11-19T05:38:16+0000", 
+            "message": "Take back the axe!!", 
+            "id": "1717731545171536_1808656386079051"
+        }, 
+        {
+            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15056245_1263788943659711_3921410310523789723_n.jpg?oh=b1a004df85ab84ab1a02423db67d56c4&oe=5910BF64", 
+            "from": {
+                "name": "Brian Ho", 
+                "id": "780843418620935"
             }, 
             "attachments": {
                 "data": [
                     {
-                        "url": "https://www.facebook.com/photo.php?fbid=1241005395964165&set=gm.1809216399356383&type=3", 
-                        "media": {
-                            "image": {
-                                "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/15095072_1241005395964165_2255585115835539881_n.jpg?oh=f364d735f3e50266487d06ee82ae39e6&oe=591543BB", 
-                                "width": 720, 
-                                "height": 405
-                            }
-                        }, 
-                        "type": "photo", 
-                        "description": "When you're the professor and that slide with all the detailed technical information everyone will need for the final is still up after three seconds", 
-                        "target": {
-                            "url": "https://www.facebook.com/photo.php?fbid=1241005395964165&set=gm.1809216399356383&type=3", 
-                            "id": "1241005395964165"
-                        }
+                        "url": "https://www.facebook.com/photo.php?fbid=1263788943659711&set=gm.1808152049462818&type=3"
+                    }
+                ]
+            }, 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "total_count": 75, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-11-19T05:47:22+0000", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 623
+                }
+            }, 
+            "created_time": "2016-11-18T03:58:43+0000", 
+            "message": "tfw u love crossroads so much", 
+            "id": "1717731545171536_1808152049462818"
+        }, 
+        {
+            "from": {
+                "name": "AJ Glassman", 
+                "id": "10203690482360159"
+            }, 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "total_count": 12, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-11-19T04:40:07+0000", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 412
+                }
+            }, 
+            "created_time": "2016-11-18T17:32:47+0000", 
+            "id": "1717731545171536_1808411159436907"
+        }, 
+        {
+            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15078764_1275248769192475_6428870493416694174_n.jpg?oh=a169082c943dd42f949337aaa6283d3d&oe=5911D16A", 
+            "from": {
+                "name": "Connor Carroll", 
+                "id": "860516790665677"
+            }, 
+            "attachments": {
+                "data": [
+                    {
+                        "url": "https://www.facebook.com/photo.php?fbid=1275248769192475&set=gm.1808623112749045&type=3"
                     }
                 ]
             }, 
@@ -1950,47 +928,447 @@
                     "order": "chronological"
                 }
             }, 
-            "updated_time": "2016-11-20T06:29:03+0000", 
+            "updated_time": "2016-11-19T03:56:37+0000", 
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 21
+                    "total_count": 9
                 }
             }, 
-            "created_time": "2016-11-20T06:25:16+0000", 
-            "message": "When you're the professor and that slide with all the detailed technical information everyone will need for the final is still up after three seconds", 
-            "id": "1717731545171536_1809216399356383"
+            "created_time": "2016-11-19T03:56:37+0000", 
+            "message": "every time dirks sends a blast email", 
+            "id": "1717731545171536_1808623112749045"
         }, 
         {
+            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15095478_354710918216991_7403737357722451389_n.jpg?oh=18b11f4a6c0d717b156361b1e462dfa7&oe=59447F8D", 
             "from": {
-                "name": "Jingqi Zhou", 
-                "id": "10202415763860873"
+                "name": "Daniel Evans-Nakamura", 
+                "id": "126179967736755"
             }, 
             "attachments": {
                 "data": [
                     {
-                        "type": "unavailable", 
-                        "description": "This attachment may have been removed or the person who shared it may not have permission to share it with you.", 
-                        "title": "Attachment Unavailable"
+                        "url": "https://www.facebook.com/photo.php?fbid=354710918216991&set=gm.1808471939430829&type=3"
                     }
                 ]
             }, 
             "comments": {
                 "data": [], 
                 "summary": {
-                    "total_count": 57, 
+                    "total_count": 1, 
                     "order": "chronological"
                 }
             }, 
-            "updated_time": "2016-11-20T06:19:06+0000", 
+            "updated_time": "2016-11-19T03:22:15+0000", 
             "likes": {
                 "data": [], 
                 "summary": {
-                    "total_count": 1029
+                    "total_count": 53
                 }
             }, 
-            "created_time": "2016-11-18T21:33:03+0000", 
-            "id": "1717731545171536_1808499306094759"
+            "created_time": "2016-11-18T20:19:20+0000", 
+            "message": "Thirsty for them public funds \u2014 spotted in a Barrows elevator.", 
+            "id": "1717731545171536_1808471939430829"
+        }, 
+        {
+            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15094261_1158614447563921_1426941732641810675_n.jpg?oh=674488a0aae269330c1de1407de83e37&oe=59013CE6", 
+            "from": {
+                "name": "Ian Alejandro Hunter", 
+                "id": "1199660450125987"
+            }, 
+            "attachments": {
+                "data": [
+                    {
+                        "url": "https://www.facebook.com/photo.php?fbid=1158614447563921&set=gm.1808136956130994&type=3"
+                    }
+                ]
+            }, 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "total_count": 27, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-11-19T02:31:28+0000", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 250
+                }
+            }, 
+            "created_time": "2016-11-18T03:24:31+0000", 
+            "message": "When you're down to 27.6 meal points", 
+            "id": "1717731545171536_1808136956130994"
+        }, 
+        {
+            "from": {
+                "name": "Michael Beery", 
+                "id": "10204555424075610"
+            }, 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "total_count": 38, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-11-19T01:54:57+0000", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 735
+                }
+            }, 
+            "created_time": "2016-11-18T00:09:42+0000", 
+            "id": "1717731545171536_1808077626136927"
+        }, 
+        {
+            "picture": "https://scontent.xx.fbcdn.net/v/t15.0-10/s130x130/14270902_1659741467649071_1849744963_n.jpg?oh=d8c3fff1f9e1a3ef028e5356102ae05e&oe=58FD94F9", 
+            "from": {
+                "name": "Manny LaCarrubba", 
+                "id": "1688018418154709"
+            }, 
+            "attachments": {
+                "data": [
+                    {
+                        "url": "https://www.facebook.com/100008397001578/videos/1659741334315751/"
+                    }
+                ]
+            }, 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "total_count": 8, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-11-19T01:54:55+0000", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 78
+                }
+            }, 
+            "created_time": "2016-09-08T03:57:31+0000", 
+            "id": "1717731545171536_1771782029766487"
+        }, 
+        {
+            "from": {
+                "name": "Twee Mac", 
+                "id": "10203088325035475"
+            }, 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "total_count": 19, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-11-19T01:21:05+0000", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 105
+                }
+            }, 
+            "created_time": "2016-10-28T02:47:33+0000", 
+            "message": "blast this shit during halftime", 
+            "id": "1717731545171536_1797008397243850"
+        }, 
+        {
+            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15032273_1087861291313191_4194031367253584924_n.jpg?oh=0118a6910e7bc01616dba36bc3d83ac5&oe=5949E722", 
+            "from": {
+                "name": "Neba Zaidi", 
+                "id": "661108413988483"
+            }, 
+            "attachments": {
+                "data": [
+                    {
+                        "url": "https://www.facebook.com/photo.php?fbid=1087861291313191&set=gm.1808583839419639&type=3"
+                    }
+                ]
+            }, 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "total_count": 0, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-11-19T01:20:22+0000", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 40
+                }
+            }, 
+            "created_time": "2016-11-19T01:20:22+0000", 
+            "message": "Smash that mf love react", 
+            "id": "1717731545171536_1808583839419639"
+        }, 
+        {
+            "from": {
+                "name": "Rouhin Ghosh", 
+                "id": "747353211952911"
+            }, 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "total_count": 37, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-11-19T01:09:21+0000", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 544
+                }
+            }, 
+            "created_time": "2016-11-18T00:47:29+0000", 
+            "message": "Sad reacts only", 
+            "id": "1717731545171536_1808089196135770"
+        }, 
+        {
+            "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDV2V70xw9NPZFn&url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FxThuW4dVf7sSkTDjTG%2Fgiphy.gif&_nc_hash=AQDBoZewXgarLByA", 
+            "from": {
+                "name": "Max Chervin", 
+                "id": "10205660924192180"
+            }, 
+            "attachments": {
+                "data": [
+                    {
+                        "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FxThuW4dVf7sSkTDjTG%2Fgiphy.gif&h=ATPkPVQvUu4zxiPuVisxm1NdTnFr1oF0SzbnGOiEmquL1LuTllaKQ4cIAc5HIS5XwcxIgQ0vXHd7EakPtpouK3bgPWXEJz9BcDv8C8exjUaVqdV7_STKbAUh74LfxtoE0A&s=1&enc=AZPJOysIZD1s0eUZfRlLNOvcmBtojHXUhEIRZAeVle13ryEOiE6OWV_NjcSIFloAhv4RSwgZXc-CjeOSs_YD9FlI7T0MviXy2NLsmnhE9ImAMA"
+                    }
+                ]
+            }, 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "total_count": 26, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-11-19T00:48:07+0000", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 239
+                }
+            }, 
+            "created_time": "2016-11-18T04:01:58+0000", 
+            "message": "Me walking past student groups on Sproul", 
+            "id": "1717731545171536_1808152749462748"
+        }, 
+        {
+            "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQD_v6ykXMzNpemA&url=https%3A%2F%2Fi.redd.it%2Ftrcup62mfeyx.gif&_nc_hash=AQD-Nqqkdzo8dOqR", 
+            "from": {
+                "name": "Joseph del Rosario", 
+                "id": "727294200698243"
+            }, 
+            "attachments": {
+                "data": [
+                    {
+                        "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fi.redd.it%2Ftrcup62mfeyx.gif&h=ATNmiLSwoqhxPTks5UZPzXEQpCbxOJ2tGCrbyUbCJk4HEOEmzn3iJLUHL__UMjhvmn24CwuqAq_hOEma1hkNTILy5y0lrYm2j29K3pQ3RpIbCCkwQ7jUVKKEdw2Bbyu4RQ&s=1&enc=AZOEAByeaUSrvUO8pbUUROR2GmCdGwbxcIburxi1u5CSrLmkQzeTKPTxfnJUDoZbAJY3XTkSkDdMakdk_VGD-kZzzurj0_LCDZukqCoGtPx2hQ"
+                    }
+                ]
+            }, 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "total_count": 0, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-11-19T00:21:32+0000", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 77
+                }
+            }, 
+            "created_time": "2016-11-19T00:21:32+0000", 
+            "message": "ask me how i'm handling the semester so far\n\n", 
+            "id": "1717731545171536_1808569379421085"
+        }, 
+        {
+            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15107263_1227218540670100_7653618267106397288_n.jpg?oh=5788d36a990a19de1a19d623b3b5c2b2&oe=5949FF92", 
+            "from": {
+                "name": "Mike Zhong", 
+                "id": "167138300284420"
+            }, 
+            "attachments": {
+                "data": [
+                    {
+                        "url": "https://www.facebook.com/TheSimpsonsArt/photos/a.165848826807082.38519.165754846816480/1227218540670100/?type=3"
+                    }
+                ]
+            }, 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "total_count": 0, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-11-19T00:10:39+0000", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 2
+                }
+            }, 
+            "created_time": "2016-11-19T00:10:39+0000", 
+            "message": "\"Happy Big Game Week!!!\" -Oski", 
+            "id": "1717731545171536_1808567242754632"
+        }, 
+        {
+            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15027949_1146163455459487_1109058409989476685_n.jpg?oh=f56c681fbc0e1e5dc87e8ea90985cde4&oe=5912E71D", 
+            "from": {
+                "name": "Gregory Levine", 
+                "id": "621049321304239"
+            }, 
+            "attachments": {
+                "data": [
+                    {
+                        "url": "https://www.facebook.com/photo.php?fbid=1146163455459487&set=gm.1808125979465425&type=3"
+                    }
+                ]
+            }, 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "total_count": 1, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-11-19T00:02:19+0000", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 53
+                }
+            }, 
+            "created_time": "2016-11-18T02:54:13+0000", 
+            "message": "In the spirit of Big Game weekend...", 
+            "id": "1717731545171536_1808125979465425"
+        }, 
+        {
+            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15073337_1887898808096818_1866919922976899884_n.jpg?oh=3d1083ec43d59712e410f0952a53022d&oe=594059CC", 
+            "from": {
+                "name": "Nick Pingitore", 
+                "id": "1584046021815433"
+            }, 
+            "attachments": {
+                "data": [
+                    {
+                        "url": "https://www.facebook.com/photo.php?fbid=1887898808096818&set=gm.1808453082766048&type=3"
+                    }
+                ]
+            }, 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "total_count": 4, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-11-18T23:55:18+0000", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 45
+                }
+            }, 
+            "created_time": "2016-11-18T19:23:22+0000", 
+            "message": "\"but if you live in the units you're close to Southside\"", 
+            "id": "1717731545171536_1808453082766048"
+        }, 
+        {
+            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/10898128_408389649493070_4507924669976989527_n.jpg?oh=2d5d8842bd9c6fd25345ddb279da68cf&oe=59144F90", 
+            "from": {
+                "name": "Ashley Nicole", 
+                "id": "127013780963993"
+            }, 
+            "attachments": {
+                "data": [
+                    {
+                        "url": "https://www.facebook.com/photo.php?fbid=408389649493070&set=gm.1808237856120904&type=3"
+                    }
+                ]
+            }, 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "total_count": 1, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-11-18T23:54:18+0000", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 96
+                }
+            }, 
+            "created_time": "2016-11-18T08:47:32+0000", 
+            "message": "Sad reacts only", 
+            "id": "1717731545171536_1808237856120904"
+        }, 
+        {
+            "from": {
+                "name": "Garima Raheja", 
+                "id": "1511429412412259"
+            }, 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "total_count": 0, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-11-18T23:24:54+0000", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 17
+                }
+            }, 
+            "created_time": "2016-11-18T23:24:54+0000", 
+            "message": "Water Engineering professor diagramming transmission of work during group project", 
+            "id": "1717731545171536_1808536289424394"
+        }, 
+        {
+            "picture": "https://scontent.xx.fbcdn.net/v/l/t1.0-0/s130x130/15032826_1156161244437211_8138514383329131401_n.jpg?oh=5cd1d5e9ed9f9e57a9de31610b0cbd31&oe=5946DFEF", 
+            "from": {
+                "name": "Olivia Pakula", 
+                "id": "836288399757832"
+            }, 
+            "attachments": {
+                "data": [
+                    {
+                        "url": "https://www.facebook.com/photo.php?fbid=1156161244437211&set=gm.1808155099462513&type=3"
+                    }
+                ]
+            }, 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "total_count": 7, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-11-18T23:21:11+0000", 
+            "likes": {
+                "data": [], 
+                "summary": {
+                    "total_count": 188
+                }
+            }, 
+            "created_time": "2016-11-18T04:10:37+0000", 
+            "message": "Leaked Sex on Tuesday article", 
+            "id": "1717731545171536_1808155099462513"
         }
     ]
 }
