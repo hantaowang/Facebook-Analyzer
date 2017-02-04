@@ -1,0 +1,607 @@
+{
+    "paging": {
+        "next": "https://graph.facebook.com/v2.2/1717731545171536/feed?fields=message,created_time,attachments,comments.summary%28true%29,likes.summary%28true%29,picture&limit=5&__paging_token=enc_AdAh3o79I5p9QLLG6mxwiwN0vvYYRPq8xDxaE4axWqRI0ccyscJik1ZBZBLjvi9zB8BXMwbXnYxT406azc4VD6xUafbWZAjQIhZAwdtI9Ry6O9O4dQZDZD&icon_size=16&access_token=EAACEdEose0cBAO1IDRm2ItI8Iycv8M0MANGUmM4WJdJiZCXmpzmDhcs47ZBncF40RZBZB9Vojh4AbdiKpvTVXitQBdrSkJsOZCWYd0eopiOsFYPWcVdgJaZA1kf0DRL2kjmNznsvUZAJrr4tbuWx2QBepTY8WWlZCvLpDjgJBUW93g5bzMVEMWRtoxRoEjPaFWcZD&until=1468219703", 
+        "previous": "https://graph.facebook.com/v2.2/1717731545171536/feed?fields=message,created_time,attachments,comments.summary%28true%29,likes.summary%28true%29,picture&limit=5&__paging_token=enc_AdAsRccJKTJnZA1H5ddvkPIWZAbuNO089NhZBzQcg8BTHZBYviur94bOFZCZCmLM2rLiojZBgpfFrlBfFi0GQMEYIdr3uLZCiKKlWqvxSChzmv4JT8DblQZDZD&icon_size=16&since=1469235857&access_token=EAACEdEose0cBAO1IDRm2ItI8Iycv8M0MANGUmM4WJdJiZCXmpzmDhcs47ZBncF40RZBZB9Vojh4AbdiKpvTVXitQBdrSkJsOZCWYd0eopiOsFYPWcVdgJaZA1kf0DRL2kjmNznsvUZAJrr4tbuWx2QBepTY8WWlZCvLpDjgJBUW93g5bzMVEMWRtoxRoEjPaFWcZD&__previous=1"
+    }, 
+    "data": [
+        {
+            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/13776007_1072277222837811_7283724788912103797_n.jpg?oh=2af257186bbc811746f18edf10877fea&oe=594BEEF6", 
+            "attachments": {
+                "data": [
+                    {
+                        "url": "https://www.facebook.com/photo.php?fbid=1072277222837811&set=gm.1751225221822168&type=3", 
+                        "media": {
+                            "image": {
+                                "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/p720x720/13776007_1072277222837811_7283724788912103797_n.jpg?oh=952f02bd09d08f1865fef95556f2331c&oe=594855E3", 
+                                "width": 720, 
+                                "height": 720
+                            }
+                        }, 
+                        "type": "photo", 
+                        "description": "For the wrastlin' fans", 
+                        "target": {
+                            "url": "https://www.facebook.com/photo.php?fbid=1072277222837811&set=gm.1751225221822168&type=3", 
+                            "id": "1072277222837811"
+                        }
+                    }
+                ]
+            }, 
+            "comments": {
+                "paging": {
+                    "cursors": {
+                        "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGMxTVRJNE5UYzRPRFE0TWpjM09Eb3hORFk1TWpNMU9EVTMZD", 
+                        "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGMxTVRJNE5UYzRPRFE0TWpjM09Eb3hORFk1TWpNMU9EVTMZD"
+                    }
+                }, 
+                "data": [
+                    {
+                        "from": {
+                            "name": "Twee Mac", 
+                            "id": "10203088325035475"
+                        }, 
+                        "like_count": 4, 
+                        "can_remove": false, 
+                        "created_time": "2016-07-23T01:04:17+0000", 
+                        "message": "i'm the trash man i come out, i throw trash all over the ring and then i start eating garbage", 
+                        "id": "1751285788482778", 
+                        "user_likes": false
+                    }
+                ], 
+                "summary": {
+                    "total_count": 1, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-07-23T01:04:17+0000", 
+            "likes": {
+                "paging": {
+                    "cursors": {
+                        "after": "MTAyMDQ0Mjk2MTM1NTgyOTkZD", 
+                        "before": "NzYxMTI1OTY3Mjc4MTcx"
+                    }
+                }, 
+                "data": [
+                    {
+                        "id": "761125967278171", 
+                        "name": "Shivani Prabala"
+                    }, 
+                    {
+                        "id": "165156190576664", 
+                        "name": "Xinyue Zhang"
+                    }, 
+                    {
+                        "id": "772506706173588", 
+                        "name": "Earl Lagmay"
+                    }, 
+                    {
+                        "id": "111085655899165", 
+                        "name": "Austin Isaacsohn"
+                    }, 
+                    {
+                        "id": "904179039592274", 
+                        "name": "Dan Cabanero"
+                    }, 
+                    {
+                        "id": "856557957722262", 
+                        "name": "Nicole Huxtable"
+                    }, 
+                    {
+                        "id": "10204429613558299", 
+                        "name": "Sasha Ashall"
+                    }
+                ], 
+                "summary": {
+                    "total_count": 7
+                }
+            }, 
+            "created_time": "2016-07-22T20:28:30+0000", 
+            "message": "For the wrastlin' fans", 
+            "id": "1717731545171536_1751225221822168"
+        }, 
+        {
+            "attachments": {
+                "data": [
+                    {
+                        "url": "http://l.facebook.com/l.php?u=http%3A%2F%2Fregistrar.berkeley.edu%2Fcnp&h=ATNyhksoAk7xqgIsQ_18LL9bhh5H413Bw0ULVeh7zgrupR_gWqVFjHSNi_p8lvlbideKh1JSgnu-sFH818Y8lNOVENJKm1BZsPR7hUZWrBuL0B7K29iV9cwItuYKaWfEh8o03hHDclvMVMnwKg&s=1&enc=AZOHlXEEBoiIDEbdWJHiloODDRYu7mM3ZPuT5stcbGq1px_XSlw0P8jJrG02QaumxR9er4FqKH26GzElHnL1T_-4DHSY_pCi-zSdZxlI7dS1_Q", 
+                        "title": "Cancel for Non-Payment Policy | Office of the Registrar", 
+                        "type": "share", 
+                        "description": "Effective fall 2016, the Cancel for Non-Payment (CNP) policy requires that a portion of tuition and fees for each semester are due on the Friday preceding the first day of instruction (August 19 for fall 2016). The policy provides students who intend to take a class and pay their tuition and fees ma...", 
+                        "target": {
+                            "url": "http://l.facebook.com/l.php?u=http%3A%2F%2Fregistrar.berkeley.edu%2Fcnp&h=ATNyhksoAk7xqgIsQ_18LL9bhh5H413Bw0ULVeh7zgrupR_gWqVFjHSNi_p8lvlbideKh1JSgnu-sFH818Y8lNOVENJKm1BZsPR7hUZWrBuL0B7K29iV9cwItuYKaWfEh8o03hHDclvMVMnwKg&s=1&enc=AZOHlXEEBoiIDEbdWJHiloODDRYu7mM3ZPuT5stcbGq1px_XSlw0P8jJrG02QaumxR9er4FqKH26GzElHnL1T_-4DHSY_pCi-zSdZxlI7dS1_Q"
+                        }
+                    }
+                ]
+            }, 
+            "comments": {
+                "paging": {
+                    "cursors": {
+                        "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGMwT1RjMk9Ua3lPRFl6TkRNMk5Eb3hORFk0T0Rrek5EWXgZD", 
+                        "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGMwT1RjMk9UZAzNOVE13TVRBek5qb3hORFk0T0Rrek5ESTEZD"
+                    }
+                }, 
+                "data": [
+                    {
+                        "from": {
+                            "name": "Twee Mac", 
+                            "id": "10203088325035475"
+                        }, 
+                        "like_count": 2, 
+                        "can_remove": false, 
+                        "created_time": "2016-07-19T01:57:05+0000", 
+                        "message": "Preach \ud83d\ude29\ud83d\ude29\ud83d\ude29", 
+                        "id": "1749769875301036", 
+                        "user_likes": false
+                    }, 
+                    {
+                        "from": {
+                            "name": "Hongye Xu", 
+                            "id": "10204064194792875"
+                        }, 
+                        "like_count": 3, 
+                        "can_remove": false, 
+                        "created_time": "2016-07-19T01:57:41+0000", 
+                        "message": "fuckin incredible", 
+                        "id": "1749769928634364", 
+                        "user_likes": false
+                    }
+                ], 
+                "summary": {
+                    "total_count": 2, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-07-19T01:57:41+0000", 
+            "likes": {
+                "paging": {
+                    "cursors": {
+                        "after": "MTAyMDMwODgzMjUwMzU0NzUZD", 
+                        "before": "ODMzNTE2ODczMzM3NDc3"
+                    }, 
+                    "next": "https://graph.facebook.com/v2.2/1717731545171536_1749751188636238/likes?access_token=EAACEdEose0cBAO1IDRm2ItI8Iycv8M0MANGUmM4WJdJiZCXmpzmDhcs47ZBncF40RZBZB9Vojh4AbdiKpvTVXitQBdrSkJsOZCWYd0eopiOsFYPWcVdgJaZA1kf0DRL2kjmNznsvUZAJrr4tbuWx2QBepTY8WWlZCvLpDjgJBUW93g5bzMVEMWRtoxRoEjPaFWcZD&summary=true&limit=25&after=MTAyMDMwODgzMjUwMzU0NzUZD"
+                }, 
+                "data": [
+                    {
+                        "id": "833516873337477", 
+                        "name": "Shayna Howlett"
+                    }, 
+                    {
+                        "id": "10201568754101209", 
+                        "name": "Christina Macdonald"
+                    }, 
+                    {
+                        "id": "792008854156002", 
+                        "name": "Jessica Gleason"
+                    }, 
+                    {
+                        "id": "10153507380003238", 
+                        "name": "Natalie MacDaddle"
+                    }, 
+                    {
+                        "id": "1478032935808821", 
+                        "name": "Kristen Flores"
+                    }, 
+                    {
+                        "id": "402528439952065", 
+                        "name": "Lily Holmes"
+                    }, 
+                    {
+                        "id": "736705733063546", 
+                        "name": "Jessica Jin"
+                    }, 
+                    {
+                        "id": "526184724213099", 
+                        "name": "Caleb Wyllie"
+                    }, 
+                    {
+                        "id": "111085655899165", 
+                        "name": "Austin Isaacsohn"
+                    }, 
+                    {
+                        "id": "998507190173316", 
+                        "name": "John Trinh"
+                    }, 
+                    {
+                        "id": "10205104508119281", 
+                        "name": "Zainab Ali"
+                    }, 
+                    {
+                        "id": "10202670863600054", 
+                        "name": "Brandon Atchley"
+                    }, 
+                    {
+                        "id": "10204429613558299", 
+                        "name": "Sasha Ashall"
+                    }, 
+                    {
+                        "id": "10205952307912543", 
+                        "name": "Grant Empey"
+                    }, 
+                    {
+                        "id": "739659586125937", 
+                        "name": "Stephen Ramaley"
+                    }, 
+                    {
+                        "id": "10203249865871665", 
+                        "name": "Jack Wang"
+                    }, 
+                    {
+                        "id": "823682560978078", 
+                        "name": "Melissa Ly"
+                    }, 
+                    {
+                        "id": "856557957722262", 
+                        "name": "Nicole Huxtable"
+                    }, 
+                    {
+                        "id": "808328239202091", 
+                        "name": "Jonathan Qu"
+                    }, 
+                    {
+                        "id": "1463256787267848", 
+                        "name": "Christy Han"
+                    }, 
+                    {
+                        "id": "692364330827073", 
+                        "name": "Rachel Trujillo"
+                    }, 
+                    {
+                        "id": "419607741510396", 
+                        "name": "Sid Masih"
+                    }, 
+                    {
+                        "id": "10203225737427080", 
+                        "name": "David Bui"
+                    }, 
+                    {
+                        "id": "10203915516992411", 
+                        "name": "Jens Malmquist"
+                    }, 
+                    {
+                        "id": "10203088325035475", 
+                        "name": "Twee Mac"
+                    }
+                ], 
+                "summary": {
+                    "total_count": 30
+                }
+            }, 
+            "created_time": "2016-07-19T00:28:31+0000", 
+            "message": "Dear Students\ud83d\udc66\ud83c\udffd\ud83d\udc67\ud83c\udffb\ud83d\udc67\ud83c\udfff\ud83d\udc66\ud83c\udffc,\n\nToday\ud83c\udf1e we announce\u270d\ud83d\udde3 a new enrollment and payment\ud83d\udcb8\ud83d\udcb5\ud83d\udcb0 policy \ud83e\udd14\ud83d\ude33that goes into effect \ud83d\udc49\ud83c\udffcthis \ud83d\udc48\ud83c\udffc fall \ud83c\udfc8\ud83d\udcda\ud83d\udd8a. This new \ud83c\udd95 policy helps ensure \ud83d\udc4d\ud83c\udffcthat the available seats\ud83d\udecb\ud83c\udf8e in a class\ud83c\udfe2 are maximized \ud83d\udc40\ud83d\udcaf\ud83d\udcaf\ud83d\udc4ceffectively and fairly \ud83d\ude0e\ud83d\ude0f\ud83d\udc4d\ud83c\udffc.\n\nCancel for Non-Payment Policy\n\nEffective fall 2\ufe0f\u20e30\ufe0f\u20e31\ufe0f\u20e36\ufe0f\u20e3 \ud83d\udd1c, the campus has approved the Cancel \ud83d\ude45\ud83c\udffc\u274cfor Non-Payment\ud83d\udeab\ud83d\udcb0\ud83d\udcb8 policy. Under this new \ud83c\udd95 policy, students \ud83d\udc66\ud83c\udffc\ud83d\udc67\ud83c\udffd\ud83d\udc72\ud83c\udfff\ud83d\udc73\ud83c\udffc are required to pay\ud83d\ude44\ud83d\ude2d\ud83d\ude31 20 percent \ud83d\udcc8\ud83d\ude25 or more \ud83d\udc80\ud83d\udc80\ud83d\udc80 of their tuition \ud83d\udcb8\ud83d\udcb7 and fees \ud83d\udcb8\ud83d\udcb8\ud83d\udcb8(including nonresident tuition \ud83c\uddf0\ud83c\uddf7\ud83c\udde8\ud83c\udded\ud83c\uddf2\ud83c\uddfd) by \ud83d\udcc5August 19, 2016 \ud83d\udcc5in order to remain registered \ud83d\udd13\ud83d\udd12in their enrolled classes\u2712\ufe0f\u270f\ufe0f\ud83d\udcdd for fall semester 2016.\ud83d\udcd3\ud83d\udcd5\ud83d\udcd2\n\nHow it Works\n\nUndergraduate students \ud83d\udc66\ud83c\udffc\ud83d\udc67\ud83c\udfff\ud83d\udc71\ud83c\udfff who have not\ud83d\ude45\ud83c\udffc paid\ud83d\udcb3\ud83d\udcb8 at least 20 percent\ud83d\udcc8\ud83d\udcca of their tuition and fees\ud83d\udcb4\ud83d\udcb5\ud83d\udcb6 by the August 19 \u23f3\u231b\ufe0fdeadline\u23f3\u231b\ufe0f will have their enrollment in all classes \ud83d\udc40, including those waitlisted\ud83d\ude1f\ud83d\ude16, canceled \ud83d\ude31\ud83d\ude31\ud83d\ude31one day before instruction begins\ud83d\ude2d\ud83d\udd2b. After students are canceled\u274c\ud83d\udeab, waitlists will be automatically processed \ud83d\uddc3\ud83d\uddf3\ud83d\uddc4to fill in open class seats\ud83c\udd99\ud83c\udd97.\n\nFall 2016 \ud83d\udcc6\ud83d\uddd3financial aid \ud83c\udfe7\ud83d\udcb8will be released\ud83c\udf88\ud83c\udf88 to eligible students \ud83d\udc6f\ud83d\udc6b\ud83d\udc6dbeginning \u270c\ud83c\udffcAugust 15, 2016\u270c\ud83c\udffc\ufe0f. You can monitor \ud83d\udc40\ud83d\udc40 your aid \ud83d\udcb8\ud83d\udcb5\ud83d\udcb4disbursements in the \ud83d\udd11My Finances section of CalCentral\ud83d\udd11. If sufficient aid \ud83d\udcb0\ud83d\udcb3is ready to disburse \ud83c\udf26\u2614\ufe0fand will cover at least 20 percent\ud83d\udcc8\ud83d\udcca of your tuition and fees by the payment deadline\ud83d\udeab\u274c, you will notbe subject to Cancel for Non-Payment\ud83d\ude29\ud83d\udcaf\ud83d\ude4f. If you are still at risk for Cancel for Non-Payment, CalCentral will alert you.\ud83d\ude33\ud83d\ude44\n\nStudents\ud83d\udc66\ud83d\udc67\ud83d\udc68\ud83d\udc72 who are canceled \u274c\ud83d\ude45are eligible to re-enroll in classes with available seats\ud83d\udecb\ud83c\udf8e starting August 24\ud83d\udcec\ud83d\udcea\ud83d\udceb. Tuition and fees \ud83d\udcb8\ud83d\udcb5\ud83d\udcb4will be re-assessed, and payment will be due the following day.\ud83d\uddd3\ud83d\udd1c\n\nWhat You Need to Do\n\nIf you\ud83d\udc48\ud83c\udffc\ud83d\ude1c are receiving financial aid \ud83d\udcb8\ud83d\udcb5\ud83d\udcb4or other awards\ud83c\udf81\ud83c\udfc6\ud83c\udfc5, review\ud83d\udc40 your Tasks in CalCentral \ud83d\udcbb\ud83d\udda8\ud83d\uddb1to make sure your financial aid\ud83d\udcb8 file\ud83d\uddc4\ud83d\uddc2 is complete\ud83d\udc4d and that you have satisfied \ud83d\ude29\ud83d\udca6\ud83d\udca6all eligibility requirements for disbursement.\ud83c\udf89\ud83c\udf89\ud83c\udf8a\nIf you are receiving\ud83d\udcf2\ud83d\udc8c\ud83d\udcec funding from an outside source \ud83d\ude0f\ud83d\udc74\ud83d\udca6\ud83c\udf46(i.e., agency, scholarship, sponsor), work closely \ud83d\udc49\ud83d\udc48with them to disburse \ud83d\ude4cyour funds \ud83d\udcb8\ud83d\udcb4\ud83d\udcb3\ud83d\udc8epromptly.\nIf you are paying tuition\ud83d\udcb0 and fees\ud83d\udcb3\ud83d\udcb4 from personal funds\ud83d\ude2d\ud83d\udcb5\u274c, don\u2019t wait until the last minute.\u23f3\u231b\ufe0f\nNew this year\ud83c\udf86\ud83c\udf89\ud83c\udf8a is the ability to pay for tuition and fees with a \ud83d\udcb3credit card \ud83d\udcb3if you prefer.\nStarting August 17\ud83d\udcc5\ud83d\udcc6, you canapply for an emergency loan \ud83d\ude91\ud83d\ude93\ud83d\udc77to assist you with your fee payment\ud83c\udfe5\ud83c\udfe5\nClear \u274cany holds so that you \ud83d\udc66\ud83d\udc67are officially registered \ud83d\uddf3\ud83d\uddc3and able to access campus services.\ud83d\udcd3\ud83d\udcd7\ud83d\udd17\ud83d\udcdd\nBe sure to read \ud83d\udcd6\ud83d\udc40your email\ud83d\udcbb\ud83d\udda5 and monitor CalCentral\u2328\ud83d\udcbd to stay informed \u231a\ufe0fof your payment\ud83d\udcb8\ud83d\udcb4\ud83d\udcb0 and enrollment status.\ud83d\udc40\ud83d\udcaf\ud83d\udc4c\nIt\u2019s\u203c\ufe0f important \u203c\ufe0fthat you take care of paying \ud83d\udcb5\ud83d\udcb3\ud83d\udcb0your tuition and fees\ud83d\udcb4\ud83d\ude12 before the August 19 deadline\ud83d\udcc6\ud83d\uddd3. By doing so, you will be officially\u2714\ufe0f\ud83d\udc40\ud83d\udc4c\ud83d\udc4c\ud83d\udcaf registered (assuming no holds\ud83d\udd19\u270b), allowing you to retain your class \ud83d\udcd3\ud83d\udcd2\ud83d\udcd5enrollment status\ud83d\udd0d\ud83d\udcdd and access to campus services\ud83d\udc4c\ud83d\udc4f\ud83d\udc4f. With your financial \ud83d\udcb8\ud83d\udcb5\ud83d\udcb4responsibilities taken care of\ud83c\udf7e\ud83c\udf7a\ud83c\udf7b\ud83d\udc83, you will be able to focus\ud83d\ude47\ud83c\udffb on your academic activities\ud83d\udcdd\ud83d\ude0e\ud83c\udf41\ud83d\ude0f\ud83d\ude24.\n\nWhat if You Need Help or Have Questions?\n\nVisit registrar.berkeley.edu/cnp \ud83d\udcbb\ud83d\uddb1\ud83d\udda8for additional information\ud83d\udce1, including deadlines\ud83d\udcc6 and payment \ud83d\udcb8\ud83d\udcb0options. Make early contact withCal Student Central\ud83c\udfdb if you need support or advice\ud83d\ude1c\ud83e\udd13.\n\nSincerely,\u274c\u2b55\ufe0f\u274c\u2b55\ufe0f\ud83d\ude18\n\n\ud83d\udc74Harry LeGrande\ud83d\udc74\nVice Chancellor of Student Affairs, UC Berkeley\ud83d\udc3b\u270f\ufe0f\ud83d\udcd5\ud83d\udcd2", 
+            "id": "1717731545171536_1749751188636238"
+        }, 
+        {
+            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/13615332_1066310180101182_3917176062950790925_n.jpg?oh=63c1999e297fe9a14da2f2587bc995a3&oe=5944E6AC", 
+            "attachments": {
+                "data": [
+                    {
+                        "url": "https://www.facebook.com/media/set/?set=pcb.1747542872190403&type=1", 
+                        "subattachments": {
+                            "data": [
+                                {
+                                    "url": "https://www.facebook.com/photo.php?fbid=1066310180101182&set=gm.1747542872190403&type=3", 
+                                    "media": {
+                                        "image": {
+                                            "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/13615332_1066310180101182_3917176062950790925_n.jpg?oh=3c17ed175233b28d651a09de6c66de98&oe=590ED8B9", 
+                                            "width": 405, 
+                                            "height": 720
+                                        }
+                                    }, 
+                                    "type": "photo", 
+                                    "target": {
+                                        "url": "https://www.facebook.com/photo.php?fbid=1066310180101182&set=gm.1747542872190403&type=3", 
+                                        "id": "1066310180101182"
+                                    }
+                                }, 
+                                {
+                                    "url": "https://www.facebook.com/photo.php?fbid=1066310196767847&set=gm.1747542872190403&type=3", 
+                                    "media": {
+                                        "image": {
+                                            "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/13607040_1066310196767847_7840487556974992652_n.jpg?oh=4f2a03e62ec1ec1e18a668d4324efaeb&oe=5942146E", 
+                                            "width": 617, 
+                                            "height": 720
+                                        }
+                                    }, 
+                                    "type": "photo", 
+                                    "target": {
+                                        "url": "https://www.facebook.com/photo.php?fbid=1066310196767847&set=gm.1747542872190403&type=3", 
+                                        "id": "1066310196767847"
+                                    }
+                                }
+                            ]
+                        }, 
+                        "type": "album", 
+                        "target": {
+                            "url": "https://www.facebook.com/media/set/?set=pcb.1747542872190403&type=1", 
+                            "id": "1747542872190403"
+                        }, 
+                        "title": "Photos from Chris Tril's post"
+                    }
+                ]
+            }, 
+            "comments": {
+                "paging": {
+                    "cursors": {
+                        "after": "WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGMwTnpVNU1qUTVOVFV4T0RjM05Eb3hORFk0TkRRM016VXgZD", 
+                        "before": "WTI5dGJXVnVkRjlqZAFhKemIzSTZANVGMwTnpVNU1qUTVOVFV4T0RjM05Eb3hORFk0TkRRM016VXgZD"
+                    }
+                }, 
+                "data": [
+                    {
+                        "from": {
+                            "name": "Adonis Brooks", 
+                            "id": "992025907501341"
+                        }, 
+                        "like_count": 0, 
+                        "can_remove": false, 
+                        "created_time": "2016-07-13T22:02:31+0000", 
+                        "message": "Lmfao", 
+                        "id": "1747592495518774", 
+                        "user_likes": false
+                    }
+                ], 
+                "summary": {
+                    "total_count": 1, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-07-13T22:02:31+0000", 
+            "likes": {
+                "paging": {
+                    "cursors": {
+                        "after": "NzEwNDA1NDE1NjYyMjcw", 
+                        "before": "NzY0MTkwMDkzNjQzOTc2"
+                    }
+                }, 
+                "data": [
+                    {
+                        "id": "764190093643976", 
+                        "name": "Marlou Francis Canosa"
+                    }, 
+                    {
+                        "id": "10152703086788608", 
+                        "name": "Jessica Sosnovskaya"
+                    }, 
+                    {
+                        "id": "111085655899165", 
+                        "name": "Austin Isaacsohn"
+                    }, 
+                    {
+                        "id": "10204429613558299", 
+                        "name": "Sasha Ashall"
+                    }, 
+                    {
+                        "id": "856557957722262", 
+                        "name": "Nicole Huxtable"
+                    }, 
+                    {
+                        "id": "10203088325035475", 
+                        "name": "Twee Mac"
+                    }, 
+                    {
+                        "id": "10204064194792875", 
+                        "name": "Hongye Xu"
+                    }, 
+                    {
+                        "id": "895590730471524", 
+                        "name": "Jessica Mankewitz"
+                    }, 
+                    {
+                        "id": "692364330827073", 
+                        "name": "Rachel Trujillo"
+                    }, 
+                    {
+                        "id": "808328239202091", 
+                        "name": "Jonathan Qu"
+                    }, 
+                    {
+                        "id": "992025907501341", 
+                        "name": "Adonis Brooks"
+                    }, 
+                    {
+                        "id": "10152809823866959", 
+                        "name": "Dominique Serrano"
+                    }, 
+                    {
+                        "id": "712537088840150", 
+                        "name": "Samir Alam"
+                    }, 
+                    {
+                        "id": "710405415662270", 
+                        "name": "Tristan Pettersen"
+                    }
+                ], 
+                "summary": {
+                    "total_count": 14
+                }
+            }, 
+            "created_time": "2016-07-13T20:03:47+0000", 
+            "id": "1717731545171536_1747542872190403"
+        }, 
+        {
+            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/13645136_1049665901737341_7794874679264414763_n.jpg?oh=fa4ef53d5b183b7482dc698abc3a0d77&oe=59059203", 
+            "attachments": {
+                "data": [
+                    {
+                        "url": "https://www.facebook.com/photo.php?fbid=1049665901737341&set=gm.1747083735569650&type=3", 
+                        "media": {
+                            "image": {
+                                "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/13645136_1049665901737341_7794874679264414763_n.jpg?oh=3a271edbe050dd732d6cebc36cc71a52&oe=59469CB8", 
+                                "width": 640, 
+                                "height": 640
+                            }
+                        }, 
+                        "type": "photo", 
+                        "description": "this bro", 
+                        "target": {
+                            "url": "https://www.facebook.com/photo.php?fbid=1049665901737341&set=gm.1747083735569650&type=3", 
+                            "id": "1049665901737341"
+                        }
+                    }
+                ]
+            }, 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "total_count": 0, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-07-12T17:37:21+0000", 
+            "likes": {
+                "paging": {
+                    "cursors": {
+                        "after": "NzQ1MjY2MjgyMjA1NTc1", 
+                        "before": "ODMzNTE2ODczMzM3NDc3"
+                    }
+                }, 
+                "data": [
+                    {
+                        "id": "833516873337477", 
+                        "name": "Shayna Howlett"
+                    }, 
+                    {
+                        "id": "695081147296163", 
+                        "name": "Riya Majumdar"
+                    }, 
+                    {
+                        "id": "123804217977675", 
+                        "name": "Kei Mayaki"
+                    }, 
+                    {
+                        "id": "111085655899165", 
+                        "name": "Austin Isaacsohn"
+                    }, 
+                    {
+                        "id": "165156190576664", 
+                        "name": "Xinyue Zhang"
+                    }, 
+                    {
+                        "id": "1467950456784914", 
+                        "name": "Sonty Visuthikraisee"
+                    }, 
+                    {
+                        "id": "10203088325035475", 
+                        "name": "Twee Mac"
+                    }, 
+                    {
+                        "id": "10204429613558299", 
+                        "name": "Sasha Ashall"
+                    }, 
+                    {
+                        "id": "904179039592274", 
+                        "name": "Dan Cabanero"
+                    }, 
+                    {
+                        "id": "745266282205575", 
+                        "name": "Chris Tril"
+                    }
+                ], 
+                "summary": {
+                    "total_count": 10
+                }
+            }, 
+            "created_time": "2016-07-12T17:37:21+0000", 
+            "message": "this bro", 
+            "id": "1717731545171536_1747083735569650"
+        }, 
+        {
+            "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/13606925_1048793021824629_1053832585272200018_n.jpg?oh=ef20f5abcb5ba4e426e9f1fbc82eba00&oe=593E02B8", 
+            "attachments": {
+                "data": [
+                    {
+                        "url": "https://www.facebook.com/photo.php?fbid=1048793021824629&set=gm.1746530062291684&type=3", 
+                        "media": {
+                            "image": {
+                                "src": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/13606925_1048793021824629_1053832585272200018_n.jpg?oh=b311058ecefe0d74fd0db0e94080ade5&oe=593E32AD", 
+                                "width": 701, 
+                                "height": 720
+                            }
+                        }, 
+                        "type": "photo", 
+                        "description": "When ur bro raises tuition so you gotta do what you gotta do", 
+                        "target": {
+                            "url": "https://www.facebook.com/photo.php?fbid=1048793021824629&set=gm.1746530062291684&type=3", 
+                            "id": "1048793021824629"
+                        }
+                    }
+                ]
+            }, 
+            "comments": {
+                "data": [], 
+                "summary": {
+                    "total_count": 0, 
+                    "order": "chronological"
+                }
+            }, 
+            "updated_time": "2016-07-11T06:48:23+0000", 
+            "likes": {
+                "paging": {
+                    "cursors": {
+                        "after": "NzQ1MjY2MjgyMjA1NTc1", 
+                        "before": "NzY0MTkwMDkzNjQzOTc2"
+                    }
+                }, 
+                "data": [
+                    {
+                        "id": "764190093643976", 
+                        "name": "Marlou Francis Canosa"
+                    }, 
+                    {
+                        "id": "10152809823866959", 
+                        "name": "Dominique Serrano"
+                    }, 
+                    {
+                        "id": "856557957722262", 
+                        "name": "Nicole Huxtable"
+                    }, 
+                    {
+                        "id": "673225829409890", 
+                        "name": "John James"
+                    }, 
+                    {
+                        "id": "10202645039270399", 
+                        "name": "Jasmine Amerasekera"
+                    }, 
+                    {
+                        "id": "10204429613558299", 
+                        "name": "Sasha Ashall"
+                    }, 
+                    {
+                        "id": "10205765072877772", 
+                        "name": "Maggie Shaw"
+                    }, 
+                    {
+                        "id": "674383206022426", 
+                        "name": "Terry Ton"
+                    }, 
+                    {
+                        "id": "639154666168176", 
+                        "name": "Samuel Gamer"
+                    }, 
+                    {
+                        "id": "10203088325035475", 
+                        "name": "Twee Mac"
+                    }, 
+                    {
+                        "id": "808328239202091", 
+                        "name": "Jonathan Qu"
+                    }, 
+                    {
+                        "id": "712537088840150", 
+                        "name": "Samir Alam"
+                    }, 
+                    {
+                        "id": "745266282205575", 
+                        "name": "Chris Tril"
+                    }
+                ], 
+                "summary": {
+                    "total_count": 13
+                }
+            }, 
+            "created_time": "2016-07-11T06:48:23+0000", 
+            "message": "When ur bro raises tuition so you gotta do what you gotta do", 
+            "id": "1717731545171536_1746530062291684"
+        }
+    ]
+}
